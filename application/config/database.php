@@ -76,13 +76,14 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => '',
+	'username' => 'root',
 	'password' => '',
-	'database' => '',
+	'database' => 'db_dummy_pr1',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
-	'db_debug' => (ENVIRONMENT !== 'production'),
+	'db_debug' => (ENVIRONMENT !== 'production'), //development
+	//'db_debug' => (ENVIRONMENT !== 'development'), //production
 	'cache_on' => FALSE,
 	'cachedir' => '',
 	'char_set' => 'utf8',
