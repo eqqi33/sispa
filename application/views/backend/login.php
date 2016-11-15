@@ -24,6 +24,15 @@
   <script src="<?=base_URL('assets/backend/js/html5shiv.min.js')?>"></script>
   <script src="<?=base_URL('assets/backend/js/respond.min.js')?>"></script>
   <![endif]-->
+  <style type="text/css">
+    body{
+         background: url('<?=base_URL('assets/backend/img/background-blur-low.jpg')?>') no-repeat center center fixed  !important; 
+          -webkit-background-size: cover !important;
+          -moz-background-size: cover  !important;
+          -o-background-size: cover  !important;
+          background-size: cover  !important;
+    }
+  </style>
 </head>
 <body class="hold-transition login-page">
 <div class="login-box">
