@@ -37,7 +37,7 @@
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <a href="../../index2.html"><b>Admin</b>LTE</a>
+    <a href="javascript:void(0);"><b>Admin</b>LTE</a>
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
@@ -45,7 +45,7 @@
 
     <form action="#" method="post" id="form-login" enctype="application/x-www-form-urlencoded" onkeypress="return runScript(event)">
       <div class="form-group has-feedback">
-        <input type="email" class="form-control" placeholder="Email" id="username" name="username" value="<?=$u;?>" autocomplete="on">
+        <input type="text" class="form-control" placeholder="Username" id="username" name="username" value="<?=$u;?>" autocomplete="on">
         <span class="glyphicon glyphicon-envelope form-control-feedback" style="color:#3C8DBC;"></span>
         <div class="error" id="username-alert" style="color:#ef6262;display:none;">
           <center>The Username field is required.</center>
@@ -137,7 +137,7 @@
   function login(){        
     $('#login-btn').attr('disabled',true);
     var formData = new FormData($('form')[0]);
-    var url = "<?php echo site_url('admin/index/auth_login/')?>";
+    var url = "<?php echo site_url('admin/auth_login/')?>";
     var user = $('[name="username"]').val();
     var pass = $('[name="password"]').val();
     if((user === null || user === "") && (pass === null || pass === "")){
@@ -180,7 +180,7 @@
               animation: "slide-from-left",
               showConfirmButton: false
             });
-            setTimeout("location.href = '<?=base_url()?>admin/index/index';",2000);
+            setTimeout("location.href = \"<?=base_url('admin/index');?>\";",2000);
           }else{
             swal({
               title: "Oops... Sorry",

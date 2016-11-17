@@ -1,5 +1,6 @@
 <?php if (! defined('BASEPATH')) exit('No direct script accses allowed');
-class Index extends CI_Controller {
+class Admin extends CI_Controller {
+	
 	function __construct(){
 		parent::__construct();
 		$this->load->library(array('encrypt'));
@@ -7,8 +8,8 @@ class Index extends CI_Controller {
 		$this->load->model('data_backend');
 	}
 	public function index(){
-		if(!$this->session->userdata('validated')){
-			redirect('admin/index/login');
+		if(!($this->session->userdata('validated'))){
+			redirect('admin/login');
 		}
 		$m['top']	= "top";
 		$m['left']	= "left";
@@ -19,7 +20,7 @@ class Index extends CI_Controller {
 	}
 	public function login(){
 		if($this->session->userdata('validated')){
-			redirect('admin/index/index');
+			redirect('admin/index');
 		}
 		$m['robots'] = "noindex,nofollow,nosnippet,noarchive,noimageindex";
 		if(isset($_COOKIE["cookielogin"])){
@@ -72,13 +73,13 @@ class Index extends CI_Controller {
 	            // $update = $this->data_backend->update('admin', array('status' => '1','last_login'=>date("Y-m-d H:i:s"),'ip_login'=>ambil_ip()),array('id_admin' => $d_cek->id_admin));
 		        echo json_encode(array("status" => TRUE));
 	        } else {
-				echo json_encode(array("status" => FALSE,"cek"=>$password));
+				echo json_encode(array("status" => FALSE));
 			}
 	 	}
 	}
 	public function myprofile(){
 		if(! $this->session->userdata('validated')){
-			redirect('real-adm/admin/login');
+			redirect('admin/login');
 		}
 		$m['top'] = "top";
 		$m['left_side'] = "left_side";
@@ -94,7 +95,7 @@ $m['data_online_user'] = $this->data_backend->getData('name,foto,status,last_log
 	}
 	public function setting(){
 		if(! $this->session->userdata('validated')){
-			redirect('real-adm/admin/login');
+			redirect('admin/login');
 		}
 		$m['top'] = "top";
 		$m['left_side'] = "left_side";
@@ -112,7 +113,7 @@ $m['data_online_user'] = $this->data_backend->getData('name,foto,status,last_log
 		date_default_timezone_set('Asia/Jakarta');
 		// $update = $this->data_backend->update('admin', array('status' => '0','last_logout'=>date("Y-m-d H:i:s"),'ip_logout'=>ambil_ip()),array('id_admin' => $this->session->userdata('id')));
         	$this->session->sess_destroy();
-        	redirect('admin/index/login');
+        	redirect('admin/login');
     }
 // 		public function c_su(){
 // $getId = $this->data_backend->getMaxId($primary_id,'admin');
