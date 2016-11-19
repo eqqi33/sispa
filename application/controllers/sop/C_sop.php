@@ -57,13 +57,13 @@ class C_sop extends CI_Controller {
                         //             $set_privillege_dt .= "";
                         //         }
                         //         if($privilege_data[$i]['read'] === "true"){
-                                    $set_privillege_dt .= '<a id="btn_preview_'.$d.'" class="btn btn-sm btn btn-success" title="Read" onclick="preview_cp('."'".$d."'".')" style="margin:5px !important;"><i class="glyphicon glyphicon-comment"></i> Preview SOP</a>';  
+                                    $set_privillege_dt .= '<a id="btn_preview_'.$d.'" class="btn btn-sm btn btn-success" title="Read" onclick="preview('."'".$d."'".')" style="margin:5px !important;"><i class="glyphicon glyphicon-comment"></i> Preview SOP</a>';  
                                 // }
                                 // if($privilege_data[$i]['edit'] === "true"){
                                     $set_privillege_dt .= '<br><a id="btn_edit_'.$d.'" class="btn btn-sm btn btn-warning" title="Edit" onclick="edit('."'".$d."'".')" style="margin:5px !important"><i class="glyphicon glyphicon-pencil"></i> Edit</a>';
                                 // }
                                 // if($privilege_data[$i]['delete'] === "true"){
-                                    $set_privillege_dt .= '<br><a class="btn btn-sm btn-danger" title="Hapus" onclick="delete('."'".$d."'".')" style="margin:5px !important"><i class="glyphicon glyphicon-trash"></i> Delete</a>';
+                                    $set_privillege_dt .= '<br><a class="btn btn-sm btn-danger" title="Hapus" onclick="delete_sop('."'".$d."'".')" style="margin:5px !important"><i class="glyphicon glyphicon-trash"></i> Delete</a>';
                                 // }
                                 // if($privilege_data[$i]['create'] !== "true" && $privilege_data[$i]['read'] !== "true" && $privilege_data[$i]['edit'] !== "true" && $privilege_data[$i]['delete'] !== "true"){
                                     // $set_privillege_dt .= '<a class="btn btn-sm" href="javascript:void(0);">No Action</a>';
@@ -107,7 +107,7 @@ class C_sop extends CI_Controller {
 	}
 
     public function ajax_preview($id){
-        $data = $this->data_backend->getDataByID('code_position,name_position,description,description_ind,available','careers_position','id_position',$id)->row();
+        $data = $this->data_backend->getDataByID('type_sop,title_sop,detail_sop,date_created,username_created','v_sop','id_sop',$id)->row();
         echo json_encode($data);
     }	
     public function ajax_edit($id){
@@ -151,7 +151,7 @@ class C_sop extends CI_Controller {
         }        
     }
     public function ajax_delete($id){
-        $delete = $this->data_backend->delete('careers_position','id_position',$id);
+        $delete = $this->data_backend->delete('sop','id_sop',$id);
         if($delete){
             echo json_encode(array("status" => TRUE,"message"=>"Success delete data"));
         }else{

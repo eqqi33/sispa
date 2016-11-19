@@ -130,6 +130,95 @@
       save();
     });   
   });
+  function preview(id){
+      $('#btn_preview_'+id).html('<i class="glyphicon glyphicon-comment"> Wait...</i>');
+      $('#btn_preview_'+id).attr('disabled',true); //set button enable
+      //$("#loading-2").html('<div style="margin-top:-265px;margin-left:-150px;width:150%; height:110%;z-index: 1040;position:fixed;background-color:rgba(0, 0, 0, 0.37);""><div style="margin:10% 35%;"><img src="<?php echo site_url()?>assets/img/default.svg" style="width:150px;height:150px;"></div></div>');
+      //Ajax Load data from ajax
+      $.ajax({
+          url : "<?php echo site_url('sop/c_sop/ajax_preview/')?>/" + id,
+          type: "GET",
+          dataType: "JSON",
+          success: function(data)
+          {
+              var type_sop = data.type_sop;
+              var title_sop = data.title_sop;
+              var detail_sop = data.detail_sop;
+              var date_created = data.date_created;
+              var username_created = data.username_created
+              if(detail_sop === "" || detail_sop === null){
+                detail_sop = "Sorry not available for detail SOP";
+              }else{
+                detail_sop = detail_sop;
+              }
+              $('#type_sop-preview').html('<b>: '+type_sop+'</b>');
+              $('#title_sop-preview').html('<b>: '+title_sop+'</b>');
+              $('#detail_sop-preview').html(detail_sop);
+              $('#date_created-preview').html('<b>: '+date_created+'</b>');
+              $('#user_created-preview').html('<b>: '+username_created+'</b>');
+              $('#btn_preview_'+id).html('<i class="glyphicon glyphicon-comment"><font style="margin-left:3px;font-family: Open Sans,sans-serif;">Preview SOP</font></i>');
+              $('#btn_preview_'+id).attr('disabled',false); //set button enable
+              $('#modal_form').modal('show'); // show bootstrap modal when complete loaded
+              $('#preview').show();
+              $('#form_input').hide();
+              $('.modal-title').text('Preview SOP : '+title_sop); // Set Title to Bootstrap modal title
+          },
+          error: function (jqXHR, textStatus, errorThrown)
+          {
+              $('#btn_preview_'+id).html('<i class="glyphicon glyphicon-comment"><font style="margin-left:3px;font-family: Open Sans,sans-serif;">Preview SOP</font></i>');
+              $('#btn_preview_'+id).attr('disabled',false); //set button enable
+              $("#loading-2").html('');
+              swal("Oops...","sorry error get data from server : "+errorThrown, "error");
+          }
+      });
+  }
+
+  function edit(id){
+      save_method = 'update';
+      $('#form')[0].reset(); // reset form on modals
+      $('.form-group').removeClass('has-error'); // clear error class
+      $('.help-block').empty(); // clear error string
+      $('.btn_edit_'+id).html('<i class="glyphicon glyphicon-pencil"> Wait...</i>');
+      $('.btn_edit_'+id).attr('disabled',true); //set button enable
+      $("#loading-2").html('<div style="margin-top:-265px;margin-left:-150px;width:150%; height:110%;z-index: 1040;position:fixed;background-color:rgba(0, 0, 0, 0.37);""><div style="margin:10% 35%;"><img src="<?php echo site_url()?>assets/img/default.svg" style="width:150px;height:150px;"></div></div>');
+      //Ajax Load data from ajax
+      $.ajax({
+          url : "<?php echo site_url('real-adm/master_data/group_product/ajax_edit/')?>/" + id,
+          type: "GET",
+          dataType: "JSON",
+          success: function(data)
+          {
+              $('#preview-tag').show();
+              $('[name="id"]').val(data.id_group_product);
+              $('[name="group_product_name"]').val(data.name_group_product);
+              $('[name="id_group"]').val(data.id_group);
+              $('#editor1').summernote('code', data.description);
+              $('#editor2').summernote('code', data.description_ind);
+              $('[name="description"]').val(data.description);
+              $('[name="description_ind"]').val(data.description_ind);
+              $('[name="recent_tag"]').val(data.tag);
+              var data_picture = data.picture;
+              $('#fileupload-preview').html(data_picture);
+              $('#fileupload-preview-1').val(data_picture);                              
+              $('#loading-2').html('');
+              $('#progress-bar').text("0%");
+              $('#progress-bar').css({width: "0%"});                               
+              $('#btn_edit_'+id).html('<i class="glyphicon glyphicon-pencil"><font style="margin-left:3px;font-family: Open Sans,sans-serif;">Edit</font></i>');
+              $('#btn_edit_'+id).attr('disabled',false); //set button enable
+              $('#modal_form').modal('show'); // show bootstrap modal when complete loaded
+              $('.modal-title').text('Edit Group Product'); // Set title to Bootstrap modal title
+              $('#preview').hide();
+              $('#form_input').show();
+          },
+          error: function (jqXHR, textStatus, errorThrown)
+          {
+              $('#btn_edit_'+id).html('<i class="glyphicon glyphicon-pencil"> Edit</i>');
+              $('#btn_edit_'+id).attr('disabled',false); //set button enable
+              $("#loading-2").html('');
+              swal("Oops...","sorry error get data from server : "+errorThrown, "error");
+          }
+      });
+  }
   function add(){
     save_method = 'add';
     //$('#form')[0].reset(); // reset form on modals
@@ -228,6 +317,48 @@
         });
       }
   }
+  function delete_sop(id){
+    swal({
+      title: "Are you sure?",
+      text: "Are you sure you want to delete this data?",
+      type: "warning",
+      showCancelButton: true,
+      confirmButtonText: "Yes",
+      cancelButtonText: "No",
+      closeOnConfirm: false
+    },
+    function(){
+      swal.close();
+      // ajax delete data to database
+      $.ajax({
+        url :  "<?php echo site_url('sop/c_sop/ajax_delete')?>/"+id,
+        type: "POST",
+        dataType: "JSON",
+        beforeSend: function(data){
+         //$("#loading-2").html('<div style="margin-top:-265px;margin-left:-150px;width:150%; height:110%;z-index: 1040;position:fixed;background-color:rgba(0, 0, 0, 0.37);""><div style="margin:10% 35%;"><img src="<?php echo site_url()?>assets/img/default.svg" style="width:150px;height:150px;"></div></div>');
+        },success: function(data){
+          if(data.status){
+              $("#loading-2").html('');
+                    swal({
+                      title:"Success",
+                      text:data.message,
+                      type:"success"
+                    },function(){
+                        setTimeout(function(){
+                            reload_table();                          
+                        },1000);
+                    });               
+          }else{
+            swal("Oops...","Message error : "+data.message, "error");
+            $("#loading-2").html('');
+          }
+        },error: function (jqXHR, textStatus, errorThrown){
+            swal("Oops...","sorry error delete data from server : "+errorThrown, "error");
+            $("#loading-2").html('');
+        }
+      });
+    });
+  }
   </script>
   <!-- Bootstrap modal -->
 <!-- Modal -->
@@ -281,6 +412,35 @@
             </div>
           </div>
         </div>
+      </div>
+      <div id="preview">
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="box box-info">
+                <!-- /.box-header -->
+                <div class="box-body pad">
+                  <div class="col-md-12">
+                    <div class="col-md-3">Type SOP</div><div id="type_sop-preview" class="col-md-9"></div>
+                    <div class="col-md-3">Title SOP</div><div id="title_sop-preview" class="col-md-9"></div>
+                    <div class="col-md-3">Date On Created</div><div id="date_created-preview" class="col-md-9"></div>
+                    <div class="col-md-3">Created By</div><div id="user_created-preview" class="col-md-9"></div>
+                    <div class="col-md-12">Detail SOP</div>
+                    <div class="col-md-12" style="margin-top:10px !important;margin-bottom:10px !important;"><hr></div>
+                    <div class="col-md-12">
+                      <div id="detail_sop-preview" style="padding:10px;"></div>
+                    </div> 
+                  </div>
+                </div>
+              </div>
+              <!-- /.box -->
+            </div>
+            <!-- /.col-->
+          </div>            
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>        
       </div>
     </div>
   </div>
