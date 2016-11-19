@@ -1,0 +1,188 @@
+DEBUG - 2016-11-19 05:50:46 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:50:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 05:50:47 --> Total execution time: 0.0780
+DEBUG - 2016-11-19 05:50:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:50:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 05:50:47 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 05:50:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:50:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 05:50:47 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 05:50:52 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:50:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 05:54:10 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:54:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 05:54:10 --> Total execution time: 0.0890
+DEBUG - 2016-11-19 05:54:10 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:54:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 05:54:11 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 05:54:11 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:54:11 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 05:54:11 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 05:54:14 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:54:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 05:54:14 --> You did not select a file to upload.
+DEBUG - 2016-11-19 05:54:14 --> Total execution time: 0.0900
+DEBUG - 2016-11-19 05:54:23 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:54:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 05:57:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:57:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 05:57:41 --> Total execution time: 0.2800
+DEBUG - 2016-11-19 05:58:30 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:58:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 05:58:30 --> Total execution time: 0.1040
+DEBUG - 2016-11-19 05:58:30 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:58:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 05:58:30 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 05:58:31 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:58:31 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 05:58:31 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 05:58:36 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:58:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 05:58:36 --> Total execution time: 0.1170
+DEBUG - 2016-11-19 05:58:36 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:59:02 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:59:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 05:59:02 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 05:59:28 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:59:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 05:59:28 --> Total execution time: 0.0468
+DEBUG - 2016-11-19 05:59:28 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:59:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 05:59:28 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 05:59:29 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:59:29 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 05:59:29 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 05:59:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 05:59:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 05:59:34 --> Total execution time: 0.1404
+DEBUG - 2016-11-19 05:59:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:02:42 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:02:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:02:43 --> Total execution time: 0.0468
+DEBUG - 2016-11-19 06:02:43 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:02:43 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:02:43 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 06:02:43 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:02:43 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:02:43 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 06:02:51 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:02:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:02:51 --> Total execution time: 0.0936
+DEBUG - 2016-11-19 06:02:51 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:02:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:02:51 --> 404 Page Not Found: Assets/media
+DEBUG - 2016-11-19 06:11:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:11:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:11:05 --> Total execution time: 0.0780
+DEBUG - 2016-11-19 06:11:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:11:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:11:05 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 06:11:06 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:11:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:11:06 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 06:11:13 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:11:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:11:13 --> Total execution time: 0.0624
+DEBUG - 2016-11-19 06:11:13 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:11:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:11:13 --> 404 Page Not Found: Assets/media
+DEBUG - 2016-11-19 06:11:31 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:11:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:11:31 --> Total execution time: 0.1092
+DEBUG - 2016-11-19 06:11:31 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:11:31 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:11:31 --> 404 Page Not Found: Assets/media
+DEBUG - 2016-11-19 06:11:39 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:11:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:11:40 --> Total execution time: 0.1092
+DEBUG - 2016-11-19 06:11:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:11:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:11:55 --> Total execution time: 0.0780
+DEBUG - 2016-11-19 06:11:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:11:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:11:55 --> 404 Page Not Found: Assets/media
+DEBUG - 2016-11-19 06:12:53 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:12:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:12:53 --> Total execution time: 0.0780
+DEBUG - 2016-11-19 06:12:53 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:12:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:12:53 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 06:12:53 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:12:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:12:53 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 06:12:58 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:12:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:12:58 --> Total execution time: 0.0780
+DEBUG - 2016-11-19 06:12:58 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:12:58 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:12:58 --> 404 Page Not Found: Assets/media
+DEBUG - 2016-11-19 06:13:24 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:13:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:13:24 --> Total execution time: 0.0624
+DEBUG - 2016-11-19 06:13:25 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:13:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:13:25 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 06:13:25 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:13:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:13:25 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 06:13:28 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:13:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:13:29 --> Total execution time: 0.0780
+DEBUG - 2016-11-19 06:13:29 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:13:40 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:13:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:13:40 --> Total execution time: 0.0624
+DEBUG - 2016-11-19 06:13:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:13:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:13:41 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 06:13:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:13:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:13:41 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 06:13:44 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:13:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:13:44 --> Total execution time: 0.0936
+DEBUG - 2016-11-19 06:13:44 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:13:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:13:44 --> 404 Page Not Found: Assets/media
+DEBUG - 2016-11-19 06:14:02 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:14:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:14:03 --> Total execution time: 0.1092
+DEBUG - 2016-11-19 06:14:03 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:14:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:14:03 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 06:14:03 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:14:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:14:03 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 06:14:07 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:14:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:14:08 --> Total execution time: 0.0780
+DEBUG - 2016-11-19 06:14:28 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:14:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:14:28 --> Total execution time: 0.0936
+DEBUG - 2016-11-19 06:16:10 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:16:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:16:10 --> Total execution time: 0.0624
+DEBUG - 2016-11-19 06:16:11 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:16:11 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:16:11 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 06:16:11 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:16:11 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-19 06:16:11 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-19 06:16:22 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:16:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:16:22 --> Total execution time: 0.0936
+DEBUG - 2016-11-19 06:17:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:17:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:17:05 --> Total execution time: 0.0730
+DEBUG - 2016-11-19 06:18:08 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:18:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:18:08 --> Total execution time: 0.1050
+DEBUG - 2016-11-19 06:18:16 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:18:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:18:16 --> Total execution time: 0.0930
+DEBUG - 2016-11-19 06:18:26 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:18:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:18:26 --> Total execution time: 0.0670
+DEBUG - 2016-11-19 06:20:35 --> UTF-8 Support Enabled
+DEBUG - 2016-11-19 06:20:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-19 06:20:35 --> Total execution time: 0.0780

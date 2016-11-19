@@ -1,0 +1,71 @@
+INFO - 2016-11-19 05:47:37 --> Config Class Initialized
+INFO - 2016-11-19 05:47:37 --> Hooks Class Initialized
+DEBUG - 2016-11-19 05:47:37 --> UTF-8 Support Enabled
+INFO - 2016-11-19 05:47:37 --> Utf8 Class Initialized
+INFO - 2016-11-19 05:47:37 --> URI Class Initialized
+INFO - 2016-11-19 05:47:37 --> Router Class Initialized
+INFO - 2016-11-19 05:47:37 --> Output Class Initialized
+INFO - 2016-11-19 05:47:37 --> Security Class Initialized
+DEBUG - 2016-11-19 05:47:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 05:47:37 --> Input Class Initialized
+INFO - 2016-11-19 05:47:37 --> Language Class Initialized
+INFO - 2016-11-19 05:47:37 --> Loader Class Initialized
+INFO - 2016-11-19 05:47:37 --> Helper loaded: my_helper
+INFO - 2016-11-19 05:47:37 --> Database Driver Class Initialized
+INFO - 2016-11-19 05:47:37 --> Session: Class initialized using 'database' driver.
+INFO - 2016-11-19 05:47:37 --> Controller Class Initialized
+INFO - 2016-11-19 05:47:37 --> Encrypt Class Initialized
+INFO - 2016-11-19 05:47:37 --> Helper loaded: url_helper
+INFO - 2016-11-19 05:47:37 --> Helper loaded: security_helper
+INFO - 2016-11-19 05:47:37 --> File loaded: C:\xampp\htdocs\sispa-ci\application\views\backend/top.php
+INFO - 2016-11-19 05:47:37 --> File loaded: C:\xampp\htdocs\sispa-ci\application\views\backend/left.php
+INFO - 2016-11-19 05:47:37 --> File loaded: C:\xampp\htdocs\sispa-ci\application\views\backend/sop/v_sop.php
+INFO - 2016-11-19 05:47:37 --> File loaded: C:\xampp\htdocs\sispa-ci\application\views\backend/bottom.php
+INFO - 2016-11-19 05:47:37 --> File loaded: C:\xampp\htdocs\sispa-ci\application\views\backend/right.php
+INFO - 2016-11-19 05:47:37 --> File loaded: C:\xampp\htdocs\sispa-ci\application\views\backend/tampil.php
+INFO - 2016-11-19 05:47:37 --> Final output sent to browser
+DEBUG - 2016-11-19 05:47:37 --> Total execution time: 0.1040
+INFO - 2016-11-19 05:47:37 --> Config Class Initialized
+INFO - 2016-11-19 05:47:37 --> Hooks Class Initialized
+DEBUG - 2016-11-19 05:47:37 --> UTF-8 Support Enabled
+INFO - 2016-11-19 05:47:38 --> Utf8 Class Initialized
+INFO - 2016-11-19 05:47:38 --> URI Class Initialized
+INFO - 2016-11-19 05:47:38 --> Router Class Initialized
+INFO - 2016-11-19 05:47:38 --> Output Class Initialized
+INFO - 2016-11-19 05:47:38 --> Security Class Initialized
+DEBUG - 2016-11-19 05:47:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 05:47:38 --> Input Class Initialized
+INFO - 2016-11-19 05:47:38 --> Language Class Initialized
+ERROR - 2016-11-19 05:47:38 --> 404 Page Not Found: sop/Dist/img
+INFO - 2016-11-19 05:47:38 --> Config Class Initialized
+INFO - 2016-11-19 05:47:38 --> Hooks Class Initialized
+DEBUG - 2016-11-19 05:47:38 --> UTF-8 Support Enabled
+INFO - 2016-11-19 05:47:38 --> Utf8 Class Initialized
+INFO - 2016-11-19 05:47:38 --> URI Class Initialized
+INFO - 2016-11-19 05:47:38 --> Router Class Initialized
+INFO - 2016-11-19 05:47:38 --> Output Class Initialized
+INFO - 2016-11-19 05:47:38 --> Security Class Initialized
+DEBUG - 2016-11-19 05:47:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 05:47:38 --> Input Class Initialized
+INFO - 2016-11-19 05:47:38 --> Language Class Initialized
+ERROR - 2016-11-19 05:47:38 --> 404 Page Not Found: sop/Dist/img
+INFO - 2016-11-19 05:47:42 --> Config Class Initialized
+INFO - 2016-11-19 05:47:42 --> Hooks Class Initialized
+DEBUG - 2016-11-19 05:47:42 --> UTF-8 Support Enabled
+INFO - 2016-11-19 05:47:42 --> Utf8 Class Initialized
+INFO - 2016-11-19 05:47:42 --> URI Class Initialized
+INFO - 2016-11-19 05:47:42 --> Router Class Initialized
+INFO - 2016-11-19 05:47:42 --> Output Class Initialized
+INFO - 2016-11-19 05:47:42 --> Security Class Initialized
+DEBUG - 2016-11-19 05:47:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-11-19 05:47:42 --> Input Class Initialized
+INFO - 2016-11-19 05:47:42 --> Language Class Initialized
+INFO - 2016-11-19 05:47:42 --> Loader Class Initialized
+INFO - 2016-11-19 05:47:42 --> Helper loaded: my_helper
+INFO - 2016-11-19 05:47:42 --> Database Driver Class Initialized
+INFO - 2016-11-19 05:47:42 --> Session: Class initialized using 'database' driver.
+INFO - 2016-11-19 05:47:42 --> Controller Class Initialized
+INFO - 2016-11-19 05:47:42 --> Encrypt Class Initialized
+INFO - 2016-11-19 05:47:42 --> Helper loaded: url_helper
+INFO - 2016-11-19 05:47:42 --> Helper loaded: security_helper
+INFO - 2016-11-19 05:47:42 --> Upload Class Initialized

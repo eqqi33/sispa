@@ -41,27 +41,62 @@
         <ul class="treeview-menu">
           <!--BN MENU-->
           <li>
-            <a href="#"><i class="fa fa-circle-o"></i> Broadcast Application
+            <a href="#"><i class="fa fa-cogs"></i> Broadcast Application
               <span class="pull-right-container">
                 <i class="fa fa-angle-left pull-right"></i>
               </span>
             </a>
             <ul class="treeview-menu">
-              <li>
+               <li>
                 <a href="#">
-                  <i class="fa fa-circle-o"></i>Work Log
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <i class="fa fa-circle-o"></i> SOP
+                  <i class="fa fa-circle-o"></i> Service Parameter
                   <span class="pull-right-container">
                     <i class="fa fa-angle-left pull-right"></i>
                   </span>
                 </a>
                 <ul class="treeview-menu">
-                  <li><a href="#"><i class="fa fa-circle-o"></i> Level Three</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i> Level Three</a></li>
+                  <li><a href="#"><i class="fa fa-circle-o"></i> Channel LineUp</a></li>
+                  <li><a href="#"><i class="fa fa-circle-o"></i> Bouquet LineUp</a></li>
+                  <li><a href="#"><i class="fa fa-circle-o"></i> Services / Packages</a></li>
+                </ul>
+              </li>
+              <li>
+                <a href="#">
+                  <i class="fa fa-circle-o"></i> XTI
+                </a>
+              </li>
+			  <li>
+                <a href="#">
+                  <i class="fa fa-circle-o"></i>Traffic System
+                </a>
+              </li>
+			  <li>
+                <a href="#">
+                  <i class="fa fa-circle-o"></i>Projects
+                </a>
+              </li> 
+              <li>
+                <a href="#">
+                  <i class="fa fa-circle-o"></i>Work Log
+                  <span class="pull-right-container">
+                    <i class="fa fa-angle-left pull-right"></i>
+                  </span>
+                </a>
+                 <ul class="treeview-menu">
+                  <li><a href="#"><i class="fa fa-circle-o"></i> SSR Logs</a></li>
+                  <li><a href="#"><i class="fa fa-circle-o"></i> Gen21 Logs</a></li>
+                </ul>
+              </li>
+              <li>
+                <a href="#">
+                  <i class="fa fa-file-pdf-o"></i> SOP
+                  <span class="pull-right-container">
+                    <i class="fa fa-angle-left pull-right"></i>
+                  </span>
+                </a>
+                <ul class="treeview-menu">
+                  <li><a href="#"><i class="fa fa-circle-o"></i> SSR SOP</a></li>
+                  <li><a href="#"><i class="fa fa-circle-o"></i> Gen21 SOP</a></li>
                 </ul>
               </li>
             </ul>
@@ -69,7 +104,7 @@
           <!--CA MENU-->
           <li>
             <a href="#">
-              <i class="fa fa-circle-o"></i> Conditional Acces
+              <i class="fa  fa-lock"></i> Conditional Acces
               <span class="pull-right-container">
                 <i class="fa fa-angle-left pull-right"></i>
               </span>
@@ -77,12 +112,7 @@
             <ul class="treeview-menu">
               <li>
                 <a href="#">
-                  <i class="fa fa-circle-o"></i>Work Log
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <i class="fa fa-circle-o"></i> SOP
+                  <i class="fa fa-bar-chart"></i> Traffic Bmail+OSD
                   <span class="pull-right-container">
                     <i class="fa fa-angle-left pull-right"></i>
                   </span>
@@ -90,6 +120,36 @@
                 <ul class="treeview-menu">
                   <li>
                     <a href="#">
+                      <i class="fa fa-circle-o"></i> Bmail+OSD Daily
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i class="fa fa-circle-o"></i> Bmail+OSD Monthly
+                    </a>
+                  </li>
+                </ul>
+              </li>
+               <li>
+                <a href="#">
+                  <i class="fa fa-circle-o"></i>Projects
+                </a>
+              </li> 
+              <li>
+                <a href="#">
+                  <i class="fa fa-circle-o"></i>Work Log
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <i class="fa fa-file-pdf-o"></i> SOP
+                  <span class="pull-right-container">
+                    <i class="fa fa-angle-left pull-right"></i>
+                  </span>
+                </a>
+                <ul class="treeview-menu">
+                  <li>
+                    <a href="<?= base_url('sop/c_sop');?>">
                       <i class="fa fa-circle-o"></i> Level Three
                     </a>
                   </li>
@@ -105,6 +165,15 @@
         </ul>
       </li>
       <li>
+        <a href="pages/calendar.html">
+          <i class="fa fa-line-chart"></i>
+          <span>Projects</span>
+          <span class="pull-right-container">
+            <small class="label pull-right bg-red">2</small>
+          </span>
+        </a>
+      </li>
+       <li>
         <a href="pages/calendar.html">
           <i class="fa fa-calendar"></i>
           <span>Agenda</span>

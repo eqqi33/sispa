@@ -166,7 +166,7 @@
         contentType: false,
         dataType: "JSON",
         beforeSend: function(data){
-          $('#login-btn').html('<center>Wait Validated <img src="<?php echo site_url()?>assets/backend/img/default.gif" style="width:auto;height:30px;margin-left:10px;"></center>');
+          $('#login-btn').html('<center>Wait Validated <img src=\'<?php echo site_url("assets/backend/img/default.gif")?>\' style="width:auto;height:30px;margin-left:10px;"></center>');
           $('#login-btn').css({'background-color': "#fff"});
           $('#login-btn').css({'color': "#3C8DBC"});
         },            

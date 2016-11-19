@@ -30,6 +30,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <script src="<?=base_URL('assets/backend/js/html5shiv.min.js')?>"></script>
   <script src="<?=base_URL('assets/backend/js/respond.min.js')?>"></script>
   <![endif]-->
+  <!-- jQuery 2.2.3 -->
+  <script src="<?=base_URL('assets/backend/lib/jQuery/jquery-2.2.3.min.js')?>"></script>  
 </head>
 <!--
 BODY TAG OPTIONS:
@@ -76,9 +78,6 @@ desired effect
 <!-- ./wrapper -->
 
 <!-- REQUIRED JS SCRIPTS -->
-
-<!-- jQuery 2.2.3 -->
-<script src="<?=base_URL('assets/backend/lib/jQuery/jquery-2.2.3.min.js')?>"></script>
 <!-- Bootstrap 3.3.6 -->
 <script src="<?=base_URL('assets/backend/lib/bootstrap/js/bootstrap.min.js')?>"></script>
 <!-- AdminLTE App -->
