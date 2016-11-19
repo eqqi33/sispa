@@ -82,7 +82,17 @@ desired effect
 <script src="<?=base_URL('assets/backend/lib/bootstrap/js/bootstrap.min.js')?>"></script>
 <!-- AdminLTE App -->
 <script src="<?=base_URL('assets/backend/js/app.min.js')?>"></script>
-
+<script src="<?=base_URL('assets/backend/lib/datatables/jquery.dataTables.min.js')?>" type="text/javascript"></script>
+<script src="<?=base_URL('assets/backend/lib/datatables/dataTables.bootstrap.min.js')?>" type="text/javascript"></script>
+<script src="<?=base_URL('assets/backend/lib/datatables/extensions')?>/buttons/js/dataTables.buttons.js" type="text/javascript"></script>
+<script src="<?=base_URL('assets/backend/lib/datatables/extensions/buttons/js/buttons.html5.js')?>" type="text/javascript"></script>
+<script src="<?=base_URL('assets/backend/lib/datatables/extensions/buttons/js/buttons.flash.js')?>" type="text/javascript"></script>
+<script src="<?=base_URL('assets/backend/lib/datatables/extensions/buttons/js/buttons.print.js')?>" type="text/javascript"></script>
+<script src="<?=base_URL('assets/backend/lib/datatables/extensions/buttons/js/buttons.colVis.js')?>" type="text/javascript"></script>
+<script src="<?=base_URL('assets/backend/lib/datatables/extensions/buttons/js/buttons.bootstrap.js')?>" type="text/javascript"></script>
+<script src="<?=base_URL('assets/backend/js/jszip.min.js')?>" type="text/javascript"></script>
+<script src="<?=base_URL('assets/backend/js/pdfmake.min.js')?>" type="text/javascript"></script>
+<script src="<?=base_URL('assets/backend/js/vfs_fonts.js')?>" type="text/javascript"></script>
 <!-- Optionally, you can add Slimscroll and FastClick plugins.
      Both of these plugins are recommended to enhance the
      user experience. Slimscroll is required when using the
