@@ -86,7 +86,7 @@ class C_sop extends CI_Controller {
 		$new_name = replaceWordChars(strtolower(date("YmdHms")."_sop"));
 		//konfigurasi upload file
 		$config['file_name'] = $new_name;
-		$config['upload_path'] 		= 'assets/media/sop';
+		$config['upload_path'] 		= 'assets/media/tmp';
 		$config['allowed_types'] 	= 'jpeg|gif|png|ico|jpg';
 		$config['max_size']			= '5000'; //2mb
 		$this->load->library('upload', $config);
@@ -111,7 +111,7 @@ class C_sop extends CI_Controller {
         echo json_encode($data);
     }	
     public function ajax_edit($id){
-        $data = $this->data_backend->getDataByID('id_position,code_position,name_position,description,description_ind,available','careers_position','id_position',$id)->row();
+        $data = $this->data_backend->getDataByID('id_sop,type_sop,title_sop,detail_sop','sop','id_sop',$id)->row();
         echo json_encode($data);
     }
     public function ajax_add(){
@@ -123,29 +123,36 @@ class C_sop extends CI_Controller {
                 'id_sop' => $id_sop,
                 'type_sop' => replaceWordChars($this->input->post('type_sop', TRUE)),
                 'title_sop' => replaceWordChars($this->input->post('title_sop', TRUE)),
-                'detail_sop' => replaceWordChars($this->input->post('detail_sop', TRUE)),
+                'detail_sop' => replaceWordChars($this->input->post('detail_sop', FALSE)),
                 'date_created' => unix_to_human($now, TRUE, 'ind'),
                 'id_user_created' => $this->session->userdata('id')
             );
         $insert = $this->data_backend->save("sop",$data);
         if($insert){
+            //post your preg_match code in 
+        $text=$this->input->post('detail_sop', FALSE);
+        $test = preg_match_all('/'.base_url('assets/media/temp').'/i', $text, $matches);            
             echo json_encode(array("status" => TRUE,"message"=>"Success save data "));
         }else{
             echo json_encode(array("status" => FALSE,"message" => "Sorry failed save data, please check your network connection"));
         }
     }
     public function ajax_update(){
-        $primary_id = $this->input->post('id_position');
+        $now = now();
+        $primary_id = $this->input->post('id_sop');
         $data = array(
-                'code_position' => replaceWordChars($this->input->post('code_position', TRUE)),
-                'name_position' => replaceWordChars($this->input->post('name_position', TRUE)),
-                'description' => replaceWordChars($this->input->post('description', TRUE)),
-                'description_ind' => replaceWordChars($this->input->post('description_ind', TRUE)),
-                'available' => $this->input->post('available', TRUE)
+                'type_sop' => replaceWordChars($this->input->post('type_sop', TRUE)),
+                'title_sop' => replaceWordChars($this->input->post('title_sop', TRUE)),
+                'detail_sop' => replaceWordChars($this->input->post('detail_sop', FALSE)),
+                'last_edited' => unix_to_human($now, TRUE, 'ind'),
+                'id_user_edited' => $this->session->userdata('id')
             );
-        $update = $this->data_backend->update('careers_position',$data,array('id_position' => $primary_id));
+        $update = $this->data_backend->update('sop',$data,array('id_sop' => $primary_id));
         if($update){
-            echo json_encode(array("status" => TRUE,"message"=>"Success update data"));
+            //post your preg_match code in 
+            $text=$this->input->post('detail_sop', FALSE);
+            $test = preg_match_all('/http:\/\/localhost\/sispa-ci\/assets\/media\/temp/i', $text, $matches); //done, tinggal cari cara gimana supaya bisa dipindahkan dari folder folder temp ke sop        
+            echo json_encode(array("status" => TRUE,"message"=>"Success update data","testing"=>$test));
         }else{
             echo json_encode(array("status" => FALSE,"message" => "Sorry failed update data, please check your network connection"));
         }        

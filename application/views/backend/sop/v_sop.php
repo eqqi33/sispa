@@ -16,28 +16,60 @@
     </section>
     <!-- Main content -->
     <section class="content">
-      <div class="box box-info">
-        <div class="box-header">
-          <h3 class="box-title">Data SOP</h3>
-          <button class="btn btn-primary pull-right" id="add_button"><i class="glyphicon glyphicon-plus"></i> Add Data</button><button class="btn btn-default pull-right" id="reload_button" style="margin-right:10px !important;"><i class="glyphicon glyphicon-refresh"></i> Reload Table</button>
+      <div id="data_table">
+        <div class="box box-info">
+          <div class="box-header">
+            <h3 class="box-title">Data SOP</h3>
+            <button class="btn btn-primary pull-right" id="add_button"><i class="glyphicon glyphicon-plus"></i> Add Data</button><button class="btn btn-default pull-right" id="reload_button" style="margin-right:10px !important;"><i class="glyphicon glyphicon-refresh"></i> Reload Table</button>
+          </div>
+          <!-- /.box-header -->
+          <div class="box-body">
+            <div class="table-responsive">
+              <table id="table" class="table table-bordered table-striped table-hover">
+                <thead>
+                  <tr>
+                    <th>Id</th>
+                    <th>Title SOP</th>
+                    <th>Date Created</th>
+                    <th>Last Edited</th>
+                    <th>Create By</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                </tbody>            
+              </table>
+            </div>
+          </div>
         </div>
-        <!-- /.box-header -->
-        <div class="box-body">
-          <div class="table-responsive">
-            <table id="table" class="table table-bordered table-striped table-hover">
-              <thead>
-                <tr>
-                  <th>Id</th>
-                  <th>Title SOP</th>
-                  <th>Date Created</th>
-                  <th>Last Edited</th>
-                  <th>Create By</th>
-                  <th>Action</th>
-                </tr>
-              </thead>
-              <tbody>
-              </tbody>            
-            </table>
+      </div>
+      <div id="data_preview">
+        <div class="box box-info">
+          <div class="box-header">
+            <h3 class="box-title" id="box-title-preview">Preview SOP</h3>
+            <button class="btn btn-primary pull-right" id="show_table_button"><i class="glyphicon glyphicon-th"></i> Show Table</button>
+          </div>
+          <!-- /.box-header -->
+          <div class="box-body">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="col-md-12">
+                <div class="col-md-3">Type SOP</div><div id="type_sop-preview" class="col-md-9"></div>
+                <div class="col-md-3">Title SOP</div><div id="title_sop-preview" class="col-md-9"></div>
+                <div class="col-md-3">Date On Created</div><div id="date_created-preview" class="col-md-9"></div>
+                <div class="col-md-3">Created By</div><div id="user_created-preview" class="col-md-9"></div>
+                <div class="col-md-12">Detail SOP</div>
+                <div class="col-md-12" style="margin-top:10px !important;margin-bottom:10px !important;"><hr></div>
+                <div class="col-md-12">
+                  <div class="img-responsive">
+                    <div id="detail_sop-preview" style="padding:10px;"></div>
+                  </div>
+                </div> 
+              </div>
+              <!-- /.box -->
+            </div>
+            <!-- /.col-->
+          </div>
           </div>
         </div>
       </div>
@@ -50,6 +82,7 @@
   <script type="text/javascript">
   var save_method,table;
   $(document).ready(function() {
+    $('#data_preview').hide();
     $.fn.dataTableExt.oApi.fnPagingInfo = function (oSettings){
         return {
             "iStart": oSettings._iDisplayStart,
@@ -123,6 +156,10 @@
     $('#reload_button').on('click',function(){
       reload_table();
     });
+    $('#show_table_button').on('click',function(){
+      $('#data_preview').hide();
+      $('#data_table').show();
+    });
     $('#add_button').on('click',function(){
       add();
     });
@@ -136,7 +173,7 @@
       //$("#loading-2").html('<div style="margin-top:-265px;margin-left:-150px;width:150%; height:110%;z-index: 1040;position:fixed;background-color:rgba(0, 0, 0, 0.37);""><div style="margin:10% 35%;"><img src="<?php echo site_url()?>assets/img/default.svg" style="width:150px;height:150px;"></div></div>');
       //Ajax Load data from ajax
       $.ajax({
-          url : "<?php echo site_url('sop/c_sop/ajax_preview/')?>/" + id,
+          url : "<?php echo site_url('sop/c_sop/ajax_preview/')?>" + id,
           type: "GET",
           dataType: "JSON",
           success: function(data)
@@ -158,10 +195,9 @@
               $('#user_created-preview').html('<b>: '+username_created+'</b>');
               $('#btn_preview_'+id).html('<i class="glyphicon glyphicon-comment"><font style="margin-left:3px;font-family: Open Sans,sans-serif;">Preview SOP</font></i>');
               $('#btn_preview_'+id).attr('disabled',false); //set button enable
-              $('#modal_form').modal('show'); // show bootstrap modal when complete loaded
-              $('#preview').show();
-              $('#form_input').hide();
-              $('.modal-title').text('Preview SOP : '+title_sop); // Set Title to Bootstrap modal title
+              $('#data_preview').show();
+              $('#data_table').hide();
+              $('#box-title-preview').text('Preview SOP : '+title_sop); // Set Title to Bootstrap modal title
           },
           error: function (jqXHR, textStatus, errorThrown)
           {
@@ -175,46 +211,31 @@
 
   function edit(id){
       save_method = 'update';
-      $('#form')[0].reset(); // reset form on modals
-      $('.form-group').removeClass('has-error'); // clear error class
-      $('.help-block').empty(); // clear error string
       $('.btn_edit_'+id).html('<i class="glyphicon glyphicon-pencil"> Wait...</i>');
       $('.btn_edit_'+id).attr('disabled',true); //set button enable
-      $("#loading-2").html('<div style="margin-top:-265px;margin-left:-150px;width:150%; height:110%;z-index: 1040;position:fixed;background-color:rgba(0, 0, 0, 0.37);""><div style="margin:10% 35%;"><img src="<?php echo site_url()?>assets/img/default.svg" style="width:150px;height:150px;"></div></div>');
+      //$("#loading-2").html('<div style="margin-top:-265px;margin-left:-150px;width:150%; height:110%;z-index: 1040;position:fixed;background-color:rgba(0, 0, 0, 0.37);""><div style="margin:10% 35%;"><img src="<?php echo site_url()?>assets/img/default.svg" style="width:150px;height:150px;"></div></div>');
       //Ajax Load data from ajax
       $.ajax({
-          url : "<?php echo site_url('real-adm/master_data/group_product/ajax_edit/')?>/" + id,
+          url : "<?php echo site_url('sop/c_sop/ajax_edit/')?>" + id,
           type: "GET",
           dataType: "JSON",
           success: function(data)
           {
-              $('#preview-tag').show();
-              $('[name="id"]').val(data.id_group_product);
-              $('[name="group_product_name"]').val(data.name_group_product);
-              $('[name="id_group"]').val(data.id_group);
-              $('#editor1').summernote('code', data.description);
-              $('#editor2').summernote('code', data.description_ind);
-              $('[name="description"]').val(data.description);
-              $('[name="description_ind"]').val(data.description_ind);
-              $('[name="recent_tag"]').val(data.tag);
-              var data_picture = data.picture;
-              $('#fileupload-preview').html(data_picture);
-              $('#fileupload-preview-1').val(data_picture);                              
-              $('#loading-2').html('');
-              $('#progress-bar').text("0%");
-              $('#progress-bar').css({width: "0%"});                               
+              $('[name="id_sop"]').val(data.id_sop);
+              $('[name="type_sop"]').val(data.type_sop);
+              $('[name="title_sop"]').val(data.title_sop);
+              $('#editor').summernote('code', data.detail_sop);                               
               $('#btn_edit_'+id).html('<i class="glyphicon glyphicon-pencil"><font style="margin-left:3px;font-family: Open Sans,sans-serif;">Edit</font></i>');
               $('#btn_edit_'+id).attr('disabled',false); //set button enable
               $('#modal_form').modal('show'); // show bootstrap modal when complete loaded
-              $('.modal-title').text('Edit Group Product'); // Set title to Bootstrap modal title
-              $('#preview').hide();
-              $('#form_input').show();
+              $('.modal-title').text('Edit SOP'); // Set title to Bootstrap modal title
+              $('#data_preview').hide();
+              $('#data_table').show();
           },
           error: function (jqXHR, textStatus, errorThrown)
           {
               $('#btn_edit_'+id).html('<i class="glyphicon glyphicon-pencil"> Edit</i>');
               $('#btn_edit_'+id).attr('disabled',false); //set button enable
-              $("#loading-2").html('');
               swal("Oops...","sorry error get data from server : "+errorThrown, "error");
           }
       });
@@ -224,8 +245,8 @@
     //$('#form')[0].reset(); // reset form on modals
     $('#modal_form').modal('show'); // show bootstrap modal
     $('.modal-title').text('Add SOP'); // Set Title to Bootstrap modal title
-    $('#form_input').show();
-    $('#preview').hide();
+    $('#data_preview').hide();
+    $('#data_table').show();
     $('#editor').summernote('code', '');                      
     $('#editor').summernote({placeholder: 'write here...'});
   }
@@ -297,7 +318,7 @@
                 },function(){
                   setTimeout(function(){
                       $('#modal_form').modal("hide");
-                      //reload_table();                           
+                      reload_table();                           
                   },2000);
                 });
               }else{
@@ -369,7 +390,6 @@
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
         <h4 class="modal-title">SOP Form</h4>
       </div>
-      <div id="form_input">
         <div class="modal-body">
           <div class="row">
             <div class="col-md-12">
@@ -377,7 +397,7 @@
                 <!-- /.box-header -->
                 <div class="box-body pad">
                   <form action="#" method="post"  id="form">
-                    <input type="hidden" value="" name="id"/>
+                    <input type="hidden" value="" name="id_sop"/>
                     <div class="form-group">
                       <label>Type for SOP</label>
                       <select name="type_sop" class="form-control" required>
@@ -412,36 +432,6 @@
             </div>
           </div>
         </div>
-      </div>
-      <div id="preview">
-        <div class="modal-body">
-          <div class="row">
-            <div class="col-md-12">
-              <div class="box box-info">
-                <!-- /.box-header -->
-                <div class="box-body pad">
-                  <div class="col-md-12">
-                    <div class="col-md-3">Type SOP</div><div id="type_sop-preview" class="col-md-9"></div>
-                    <div class="col-md-3">Title SOP</div><div id="title_sop-preview" class="col-md-9"></div>
-                    <div class="col-md-3">Date On Created</div><div id="date_created-preview" class="col-md-9"></div>
-                    <div class="col-md-3">Created By</div><div id="user_created-preview" class="col-md-9"></div>
-                    <div class="col-md-12">Detail SOP</div>
-                    <div class="col-md-12" style="margin-top:10px !important;margin-bottom:10px !important;"><hr></div>
-                    <div class="col-md-12">
-                      <div id="detail_sop-preview" style="padding:10px;"></div>
-                    </div> 
-                  </div>
-                </div>
-              </div>
-              <!-- /.box -->
-            </div>
-            <!-- /.col-->
-          </div>            
-          <div class="modal-footer">
-            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-          </div>
-        </div>        
-      </div>
     </div>
   </div>
 </div>
