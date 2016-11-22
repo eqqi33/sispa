@@ -1,19 +1,17 @@
   <link rel="stylesheet" href="<?=base_URL('assets/backend/lib/summernote/summernote.css')?>">
   <link rel="stylesheet" href="<?=base_URL('assets/backend/lib/sweetalert/css/sweetalert.css')?>">
-  <link rel="stylesheet" href="<?=base_URL('assets/backend/lib/datepicker/datepicker3.css')?>">
   <link rel="stylesheet" type="text/css" href="<?=base_URL('assets/backend/lib/datatables/dataTables.bootstrap.css')?>"/>
   <div class="content-wrapper">
     <!-- Content Header (Page header) -->
     <section class="content-header">
       <h1>
         SOP
-        <small>SSR SOP</small>
+        <small>Advanced form element</small>
       </h1>
       <ol class="breadcrumb">
-        <li><a href="#"><i class="fa fa-laptop"></i> Service Platform</a></li>
-        <li><a href="#">Broadcast Application</a></li>
-        <li><a href="#">SOP</a></li>
-        <li class="active">SSR SOP</li>
+        <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
+        <li><a href="#">Forms</a></li>
+        <li class="active">Editors</li>
       </ol>
     </section>
     <!-- Main content -->
@@ -22,7 +20,7 @@
         <div class="box box-info">
           <div class="box-header">
             <h3 class="box-title">SOP SSR</h3>
-            <button class="btn btn-primary pull-right" id="add_button"><i class="glyphicon glyphicon-plus"></i><!-- Add Data--></button><button class="btn btn-default pull-right" id="reload_button" style="margin-right:10px !important;"><i class="glyphicon glyphicon-refresh"></i><!--  Reload Table--></button>
+            <button class="btn btn-primary pull-right" id="add_button"><i class="glyphicon glyphicon-plus"></i> Add Data</button><button class="btn btn-default pull-right" id="reload_button" style="margin-right:10px !important;"><i class="glyphicon glyphicon-refresh"></i> Reload Table</button>
           </div>
           <!-- /.box-header -->
           <div class="box-body">
@@ -58,57 +56,32 @@
               <div class="col-md-12">
                 <div class="col-md-12">
                   <div class="table-responsive">
-                    <table id="table" class="table table-bordered" width="100%">
+                    <table id="table" class="table table-bordered table-striped table-hover">
+                      <thead>
                         <tr>
-                          <th width="25%" rowspan="2" style="vertical-align: middle !important;">
-                            <center>
-                              <img src="<?=base_url('assets/backend/img/logo-indovision.jpg')?>" style="width:75% !important;">
-                            </center>
-                          </th>
-                          <th width="50%" colspan="3">
-                            <center>
-                              <h4 style="font-weight: bold;">BIS DIV / BROADCAST DEVELOPMENT DEPT BROADCAST APPLICATION</h4>
-                            </center>
-                          </th>
-                          <!--<td></td>-->
-                          <th width="25%" rowspan="2" style="vertical-align: middle !important;">
-                            <center>
-                              <img src="<?=base_url('assets/backend/img/logo-globalmediacom.jpg')?>"  style="width:100% !important;">
-                            </center>
-                          </th>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
                         </tr>                        
+                      </thead>
+                      <tbody>
                         <tr>
-                          <td colspan="2">
-                            <center>
-                              <h3 style="font-weight: bold;" id="title_sop-preview"></h3>
-                            </center>
-                          </td>
-                          <td style="vertical-align: middle !important;">
-                            <center>No. Dokumen : <span id="num_document-preview"></span></center>
-                          </td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
                           <td></td>
                         </tr>
                         <tr>
-                          <td>
-                            <center>
-                              <h4 style="font-weight: bold;">PT. MNC SKY VISION, Tbk</h4>
-                            </center>
-                          </td>
-                          <td>
-                            <center>Mulai  berlaku tanggal :<br><span id="effective_date-preview"></span></center>
-                          </td>
-                          <td>
-                            <center>Revisi :<br><span id="num_revision-preview"></span></center>
-                          </td>
-                          <td>
-                            <center>Tgl revisi :<br><span id="date_revision-preview"></span></center>
-                          </td>
-                          <td>
-                            <center>
-                              <h4 style="font-weight: bold;">PT. GLOBAL MEDIACOM, Tbk</h4>
-                            </center>
-                          </td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
                         </tr>                        
+                      </tbody>
                     </table>
                   </div>                  
                 </div>
@@ -119,15 +92,8 @@
                   </div>
                 </div>
                 <div class="col-md-12" style="margin-top:10px !important;margin-bottom:10px !important;"><hr></div>
-                <div class="col-md-12">
-                  <div class="table-responsive">
-                    <table id="table" class="table table-bordered" width="100%">
-                      <tr>
-                        <th>Dibuat oleh:<br><br><span id="made_by-preview"></span></th>
-                        <th>Diperiksa oleh:<br><br><span id="checked_by-preview"></span></th>
-                        <th>Disetujui oleh:<br><br><span id="approv_by-preview"></span></th>
-                      </tr>
-                    </table>
+                <div>
+                  
                 </div>
               </div>
               <!-- /.box -->
@@ -142,13 +108,11 @@
     <!-- /.content -->
   </div>
   <script src="<?=base_URL('assets/backend/lib/summernote/summernote.min.js')?>"></script>
-  <script src="<?=base_URL('assets/backend/lib/datepicker/bootstrap-datepicker.js')?>"></script>
   <script src="<?=base_URL('assets/backend/lib/sweetalert/js/sweetalert.min.js')?>" type="text/javascript"></script>
   <script type="text/javascript">
   var save_method,table;
   $(document).ready(function() {
     $('#data_preview').hide();
-    //definition datatables
     $.fn.dataTableExt.oApi.fnPagingInfo = function (oSettings){
         return {
             "iStart": oSettings._iDisplayStart,
@@ -201,8 +165,7 @@
             var index = page * length + (iDisplayIndex + 1);
             $('td:eq(0)', row).html(index);
         }
-    });
-    //end of datatables    
+    });    
     $('#modal_form').modal({
       keyboard:false,
       backdrop:'static',
@@ -220,10 +183,6 @@
               }
           }
       });
-        //Date picker
-    $('#effective_date').datepicker({
-      autoclose: true
-    });
     $('#reload_button').on('click',function(){
       reload_table();
     });
@@ -249,30 +208,22 @@
           dataType: "JSON",
           success: function(data)
           {
-              var num_document = data.num_document;
+              var type_sop = data.type_sop;
               var title_sop = data.title_sop;
               var detail_sop = data.detail_sop;
-              var effective_date = data.date_effective;
-              var num_revision = data.number_revision;
-              var date_revision = data.last_edited;
-              var made_by = data.made_by;
-              var checked_by = data.checked_by;
-              var approv_by = data.approval_by;
+              var date_created = data.date_created;
+              var username_created = data.username_created
               if(detail_sop === "" || detail_sop === null){
                 detail_sop = "Sorry not available for detail SOP";
               }else{
                 detail_sop = detail_sop;
               }
-              $('#num_document-preview').text(num_document);
-              $('#title_sop-preview').text(title_sop);
-              $('#effective_date-preview').text(effective_date);
-              $('#num_revision-preview').text(num_revision);
-              $('#date_revision-preview').text(date_revision);
-              $('#made_by-preview').text(made_by);
-              $('#checked_by-preview').text(checked_by);
-              $('#approv_by-preview').text(approv_by);
+              $('#type_sop-preview').html('<b>: '+type_sop+'</b>');
+              $('#title_sop-preview').html('<b>: '+title_sop+'</b>');
               $('#detail_sop-preview').html(detail_sop);
-              $('#btn_preview_'+id).html('<i class="glyphicon glyphicon-comment"></i>');
+              $('#date_created-preview').html('<b>: '+date_created+'</b>');
+              $('#user_created-preview').html('<b>: '+username_created+'</b>');
+              $('#btn_preview_'+id).html('<i class="glyphicon glyphicon-comment"><font style="margin-left:3px;font-family: Open Sans,sans-serif;">Preview SOP</font></i>');
               $('#btn_preview_'+id).attr('disabled',false); //set button enable
               $('#data_preview').show();
               $('#data_table').hide();
@@ -280,7 +231,7 @@
           },
           error: function (jqXHR, textStatus, errorThrown)
           {
-              $('#btn_preview_'+id).html('<i class="glyphicon glyphicon-comment"></i>');
+              $('#btn_preview_'+id).html('<i class="glyphicon glyphicon-comment"><font style="margin-left:3px;font-family: Open Sans,sans-serif;">Preview SOP</font></i>');
               $('#btn_preview_'+id).attr('disabled',false); //set button enable
               $("#loading-2").html('');
               swal("Oops...","sorry error get data from server : "+errorThrown, "error");
@@ -302,15 +253,9 @@
           {
               $('[name="id_sop"]').val(data.id_sop);
               $('[name="type_sop"]').val(data.type_sop);
-              $('[name="cat_sop"]').val(data.id_cat_sop);
-              $('[name="num_doc"]').val(data.num_document);
-              $('#effective_date').datepicker('update', data.date_effective);
-              $('[name="made_by"]').val(data.made_by);
-              $('[name="checked_by"]').val(data.checked_by);
-              $('[name="approv_by"]').val(data.approval_by);
               $('[name="title_sop"]').val(data.title_sop);
               $('#editor').summernote('code', data.detail_sop);                               
-              $('#btn_edit_'+id).html('<i class="glyphicon glyphicon-pencil"></i>');
+              $('#btn_edit_'+id).html('<i class="glyphicon glyphicon-pencil"><font style="margin-left:3px;font-family: Open Sans,sans-serif;">Edit</font></i>');
               $('#btn_edit_'+id).attr('disabled',false); //set button enable
               $('#modal_form').modal('show'); // show bootstrap modal when complete loaded
               $('.modal-title').text('Edit SOP'); // Set title to Bootstrap modal title
@@ -319,7 +264,7 @@
           },
           error: function (jqXHR, textStatus, errorThrown)
           {
-              $('#btn_edit_'+id).html('<i class="glyphicon glyphicon-pencil"></i>');
+              $('#btn_edit_'+id).html('<i class="glyphicon glyphicon-pencil"> Edit</i>');
               $('#btn_edit_'+id).attr('disabled',false); //set button enable
               swal("Oops...","sorry error get data from server : "+errorThrown, "error");
           }
@@ -334,7 +279,6 @@
     $('#data_table').show();
     $('#editor').summernote('code', '');                      
     $('#editor').summernote({placeholder: 'write here...'});
-    $('#effective_date').datepicker('update', new Date());
   }
   function reload_table(){
       table.ajax.reload(null,false); //reload datatable ajax
@@ -374,9 +318,11 @@
       var type_sop = $('[name="type_sop"]').val();
       if(title_sop === null || title_sop === ""){
           swal("Oops...", "Sorry Title SOP can't be empty", "warning");
+          $('#save_button').text('Save'); //change button text
           $('#save_button').attr('disabled',false); //set button enable
       }else if(type_sop === null || type_sop === ""){
           swal("Oops...", "Sorry Type SOP can't be empty", "warning");
+          $('#save_button').text('Save'); //change button text
           $('#save_button').attr('disabled',false); //set button enable
       }else{
         $.ajax({
@@ -408,12 +354,14 @@
               }else{
                 swal("Oops...","Pesan error : "+data.message, "error");
               }
+              $('#save_button').text('Save'); //change button text
               $('#save_button').attr('disabled',false); //set button enable
             },                           
             error: function (jqXHR, textStatus, errorThrown)
             {
                 swal("Oops...","sorry error save data from server : "+errorThrown, "error");
                 $("#loading").html('');
+                $('#save_button').text('Save'); //change button text
                 $('#save_button').attr('disabled',false); //set button enable
 
             }
@@ -489,41 +437,6 @@
                         <option value="other">Other</option>
                       </select>
                     </div>
-                    <div class="form-group">
-                      <label>Category SOP</label>
-                      <select name="cat_sop" class="form-control" required>
-                        <option value="">- Select -</option>
-                        <?php foreach($cat_sop as $c){
-                          echo '<option value="'.$c->id_cat_sop.'">'.$c->name_category_sop.'</option>';
-                        } ?>                        
-                      </select>
-                    </div>
-                    <div class="form-group">
-                      <label>Num. Document</label>
-                      <input type="text" class="form-control" name="num_doc" placeholder="Entry Number Document" required>
-                    </div>
-                    <div class="form-group">
-                      <label>Effective Date</label>
-                      <div class="input-group date">
-                        <div class="input-group-addon">
-                          <i class="fa fa-calendar"></i>
-                        </div>
-                        <input type="text" class="form-control pull-right" id="effective_date" name="effective_date">
-                      </div>
-                      <!-- /.input group -->
-                    </div>
-                    <div class="form-group">
-                      <label>Made By</label>
-                      <input type="text" class="form-control" name="made_by" placeholder="Entry Made By" required>
-                    </div>                                                           
-                    <div class="form-group">
-                      <label>Checked By</label>
-                      <input type="text" class="form-control" name="checked_by" placeholder="Entry Checked By" required>
-                    </div>
-                    <div class="form-group">
-                      <label>Approval By</label>
-                      <input type="text" class="form-control" name="approv_by" placeholder="Entry Approval By" required>
-                    </div>                                                           
                     <div class="form-group">
                       <label>Title SOP</label>
                       <input type="text" class="form-control" name="title_sop" placeholder="Entry Title SOP" required>

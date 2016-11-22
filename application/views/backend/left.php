@@ -95,8 +95,10 @@
                   </span>
                 </a>
                 <ul class="treeview-menu">
-                  <li><a href="#"><i class="fa fa-circle-o"></i> SSR SOP</a></li>
-                  <li><a href="#"><i class="fa fa-circle-o"></i> Gen21 SOP</a></li>
+                  <li><a href="<?= base_url('sop/c_sop/index1');?>">
+                  <i class="fa fa-circle-o"></i> SSR SOP</a></li>
+                  <li><a href="<?= base_url('sop/c_sop');?>">
+                  <i class="fa fa-circle-o"></i> Gen21 SOP</a></li>
                 </ul>
               </li>
             </ul>

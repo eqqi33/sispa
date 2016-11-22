@@ -15,6 +15,7 @@ class C_sop extends CI_Controller {
 		$m['right']	= "right";
 		$m['main']	= "sop/v_sop";
 		$m['bottom']= "bottom";
+        $m['cat_sop'] = $this->data_backend->getData('id_cat_sop,name_category_sop','category_sop')->result();
 		$this->load->view('backend/tampil',$m);
 	}
 
@@ -57,13 +58,13 @@ class C_sop extends CI_Controller {
                         //             $set_privillege_dt .= "";
                         //         }
                         //         if($privilege_data[$i]['read'] === "true"){
-                                    $set_privillege_dt .= '<a id="btn_preview_'.$d.'" class="btn btn-sm btn btn-success" title="Read" onclick="preview('."'".$d."'".')" style="margin:5px !important;"><i class="glyphicon glyphicon-comment"></i> Preview SOP</a>';  
+                                    $set_privillege_dt .= '<a id="btn_preview_'.$d.'" class="btn btn-xs btn btn-success" title="Read" onclick="preview('."'".$d."'".')" style="margin:5px !important;"><i class="glyphicon glyphicon-comment"></i>';  
                                 // }
                                 // if($privilege_data[$i]['edit'] === "true"){
-                                    $set_privillege_dt .= '<br><a id="btn_edit_'.$d.'" class="btn btn-sm btn btn-warning" title="Edit" onclick="edit('."'".$d."'".')" style="margin:5px !important"><i class="glyphicon glyphicon-pencil"></i> Edit</a>';
+                                    $set_privillege_dt .= '<br><a id="btn_edit_'.$d.'" class="btn btn-xs btn btn-warning" title="Edit" onclick="edit('."'".$d."'".')" style="margin:5px !important"><i class="glyphicon glyphicon-pencil"></i>';
                                 // }
                                 // if($privilege_data[$i]['delete'] === "true"){
-                                    $set_privillege_dt .= '<br><a class="btn btn-sm btn-danger" title="Hapus" onclick="delete_sop('."'".$d."'".')" style="margin:5px !important"><i class="glyphicon glyphicon-trash"></i> Delete</a>';
+                                    $set_privillege_dt .= '<br><a class="btn btn-xs btn-danger" title="Hapus" onclick="delete_sop('."'".$d."'".')" style="margin:5px !important"><i class="glyphicon glyphicon-trash"></i></a>';
                                 // }
                                 // if($privilege_data[$i]['create'] !== "true" && $privilege_data[$i]['read'] !== "true" && $privilege_data[$i]['edit'] !== "true" && $privilege_data[$i]['delete'] !== "true"){
                                     // $set_privillege_dt .= '<a class="btn btn-sm" href="javascript:void(0);">No Action</a>';
@@ -107,11 +108,11 @@ class C_sop extends CI_Controller {
 	}
 
     public function ajax_preview($id){
-        $data = $this->data_backend->getDataByID('type_sop,title_sop,detail_sop,date_created,username_created','v_sop','id_sop',$id)->row();
+        $data = $this->data_backend->getDataByID('type_sop,name_category_sop,title_sop,num_document,detail_sop,date_created,date_effective,number_revision,made_by,checked_by,approval_by,username_created','v_sop','id_sop',$id)->row();
         echo json_encode($data);
     }	
     public function ajax_edit($id){
-        $data = $this->data_backend->getDataByID('id_sop,type_sop,title_sop,detail_sop','sop','id_sop',$id)->row();
+        $data = $this->data_backend->getDataByID('id_sop,id_cat_sop,type_sop,title_sop,num_document,detail_sop,date_format(date_effective,\'%e-%m-%Y\') as date_effective,made_by,checked_by,approval_by','sop','id_sop',$id)->row();
         echo json_encode($data);
     }
     public function ajax_add(){
@@ -122,10 +123,16 @@ class C_sop extends CI_Controller {
         $data = array(
                 'id_sop' => $id_sop,
                 'type_sop' => replaceWordChars($this->input->post('type_sop', TRUE)),
+                'id_cat_sop' => replaceWordChars($this->input->post('cat_sop', TRUE)),
                 'title_sop' => replaceWordChars($this->input->post('title_sop', TRUE)),
+                'num_document' => replaceWordChars($this->input->post('num_doc', TRUE)),
                 'detail_sop' => replaceWordChars($this->input->post('detail_sop', FALSE)),
+                'date_effective' => replaceWordChars($this->input->post('effective_date', TRUE)),
                 'date_created' => unix_to_human($now, TRUE, 'ind'),
-                'id_user_created' => $this->session->userdata('id')
+                'id_user_created' => $this->session->userdata('id'),
+                'made_by' => replaceWordChars($this->input->post('made_by', TRUE)),
+                'checked_by' => replaceWordChars($this->input->post('checked_by', TRUE)),
+                'approval_by' => replaceWordChars($this->input->post('approv_by', TRUE))
             );
         $insert = $this->data_backend->save("sop",$data);
         if($insert){
@@ -142,10 +149,17 @@ class C_sop extends CI_Controller {
         $primary_id = $this->input->post('id_sop');
         $data = array(
                 'type_sop' => replaceWordChars($this->input->post('type_sop', TRUE)),
+                'id_cat_sop' => replaceWordChars($this->input->post('cat_sop', TRUE)),                
                 'title_sop' => replaceWordChars($this->input->post('title_sop', TRUE)),
+                'num_document' => replaceWordChars($this->input->post('num_doc', TRUE)),                
                 'detail_sop' => replaceWordChars($this->input->post('detail_sop', FALSE)),
+                'date_effective' => replaceWordChars($this->input->post('effective_date', TRUE)),                
                 'last_edited' => unix_to_human($now, TRUE, 'ind'),
-                'id_user_edited' => $this->session->userdata('id')
+                'number_revision' => 'number_revision+1',
+                'id_user_edited' => $this->session->userdata('id'),
+                'made_by' => replaceWordChars($this->input->post('made_by', TRUE)),
+                'checked_by' => replaceWordChars($this->input->post('checked_by', TRUE)),
+                'approval_by' => replaceWordChars($this->input->post('approv_by', TRUE))                
             );
         $update = $this->data_backend->update('sop',$data,array('id_sop' => $primary_id));
         if($update){
