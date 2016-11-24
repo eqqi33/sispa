@@ -1,0 +1,697 @@
+DEBUG - 2016-11-23 08:51:21 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:51:21 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:51:21 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 08:51:28 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:51:28 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 08:51:30 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:51:30 --> Total execution time: 0.0936
+DEBUG - 2016-11-23 08:51:30 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:30 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:51:30 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 08:51:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:51:30 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 08:51:30 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:51:30 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 08:51:30 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:30 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:30 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:51:30 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 08:51:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:51:30 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 08:51:30 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:51:30 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:30 --> UTF-8 Support Enabled
+ERROR - 2016-11-23 08:51:30 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 08:51:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:51:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:51:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:51:30 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 08:51:30 --> UTF-8 Support Enabled
+ERROR - 2016-11-23 08:51:30 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-23 08:51:30 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 08:51:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:51:30 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 08:51:31 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:31 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:51:31 --> UTF-8 Support Enabled
+ERROR - 2016-11-23 08:51:31 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 08:51:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:51:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:51:31 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:31 --> UTF-8 Support Enabled
+ERROR - 2016-11-23 08:51:31 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 08:51:31 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:51:31 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 08:51:31 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:51:31 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 08:51:31 --> UTF-8 Support Enabled
+ERROR - 2016-11-23 08:51:31 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 08:51:31 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:31 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:31 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:51:31 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 08:51:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:51:31 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:51:31 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-23 08:51:31 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 08:51:31 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:51:31 --> UTF-8 Support Enabled
+ERROR - 2016-11-23 08:51:31 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 08:51:31 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:51:31 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 08:51:43 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:51:43 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 08:51:43 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:43 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:51:43 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 08:51:43 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:43 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:51:43 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 08:51:43 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:51:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:51:44 --> Total execution time: 0.0780
+DEBUG - 2016-11-23 08:55:10 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:55:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:55:10 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 08:55:10 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:55:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:55:10 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 08:55:11 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:55:11 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:55:11 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 08:55:11 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:55:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:55:11 --> Total execution time: 0.0740
+DEBUG - 2016-11-23 08:56:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:56:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:56:48 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 08:56:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:56:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:56:48 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 08:56:49 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:56:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:56:49 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 08:56:49 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:56:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:56:49 --> Total execution time: 0.0670
+DEBUG - 2016-11-23 08:59:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:59:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:59:17 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 08:59:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:59:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:59:17 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 08:59:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:59:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 08:59:17 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 08:59:18 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 08:59:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 08:59:18 --> Total execution time: 0.0710
+DEBUG - 2016-11-23 09:01:52 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:01:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:01:52 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 09:01:52 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:01:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:01:52 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:01:52 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:01:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:01:52 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:01:53 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:01:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:01:53 --> Total execution time: 0.0560
+DEBUG - 2016-11-23 09:02:30 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:02:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:02:30 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 09:02:30 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:02:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:02:30 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:02:30 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:02:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:02:30 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:02:30 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:02:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:02:30 --> Total execution time: 0.0610
+DEBUG - 2016-11-23 09:03:39 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:03:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:03:39 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 09:03:39 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:03:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:03:39 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:03:39 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:03:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:03:39 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:03:40 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:03:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:03:40 --> Total execution time: 0.0600
+DEBUG - 2016-11-23 09:04:59 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:04:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:04:59 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 09:04:59 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:04:59 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:04:59 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:05:00 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:05:00 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:05:00 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:05:00 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:05:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:05:00 --> Total execution time: 0.0630
+DEBUG - 2016-11-23 09:06:40 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:06:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:06:40 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 09:06:40 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:06:40 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:06:40 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:06:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:06:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:06:41 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:06:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:06:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:06:41 --> Total execution time: 0.0710
+DEBUG - 2016-11-23 09:07:19 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:07:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:07:19 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 09:07:19 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:07:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:07:19 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:07:19 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:07:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:07:19 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:07:20 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:07:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:07:20 --> Total execution time: 0.0850
+DEBUG - 2016-11-23 09:09:08 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:09:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:09:08 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 09:09:09 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:09:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:09:09 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 09:09:11 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:09:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:09:11 --> Total execution time: 0.0780
+DEBUG - 2016-11-23 09:09:11 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:09:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:09:12 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 09:11:36 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:11:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:11:36 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 09:11:36 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:11:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:11:36 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:11:37 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:11:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:11:37 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:11:37 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:11:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:11:37 --> Total execution time: 0.0680
+DEBUG - 2016-11-23 09:11:40 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:11:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:11:40 --> Total execution time: 0.0660
+DEBUG - 2016-11-23 09:11:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:11:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:11:41 --> Total execution time: 0.0510
+DEBUG - 2016-11-23 09:17:32 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:17:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:17:32 --> Total execution time: 0.0780
+DEBUG - 2016-11-23 09:17:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:17:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:17:47 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 09:18:00 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:18:00 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:18:00 --> Query error: Unknown column 'created_log_date' in 'field list' - Invalid query: SELECT id_wlog,id_cat_wlog,name_category_wlog,componen,descriptiont,impac,action,req_date,due_date,pic,status,created_log_date,id_user FROM v_wlog WHERE id_wlog='1'
+DEBUG - 2016-11-23 09:44:13 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:44:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:44:13 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 09:48:51 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:48:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:48:51 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 09:48:51 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:48:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:48:51 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:48:51 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:48:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:48:51 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:48:51 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:48:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:48:52 --> Total execution time: 0.0710
+DEBUG - 2016-11-23 09:50:01 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:50:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:50:01 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 09:50:01 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:50:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:50:01 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:50:01 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:50:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:50:01 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:50:01 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:50:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:50:01 --> Total execution time: 0.0560
+DEBUG - 2016-11-23 09:55:19 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:55:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:55:19 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 09:55:20 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:55:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:55:20 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:55:20 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:55:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:55:20 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 09:55:20 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:55:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 09:55:20 --> Total execution time: 0.0770
+DEBUG - 2016-11-23 09:55:22 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:55:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:55:22 --> Query error: Unknown column 'created_log_date' in 'field list' - Invalid query: SELECT id_wlog,id_cat_wlog,name_category_wlog,componen,descriptiont,impac,action,req_date,due_date,pic,status,created_log_date,id_user FROM v_wlog WHERE id_wlog='1'
+DEBUG - 2016-11-23 09:55:26 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 09:55:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 09:55:26 --> Query error: Unknown column 'created_log_date' in 'field list' - Invalid query: SELECT id_wlog,id_cat_wlog,name_category_wlog,componen,descriptiont,impac,action,req_date,due_date,pic,status,created_log_date,id_user FROM v_wlog WHERE id_wlog='1'
+DEBUG - 2016-11-23 11:48:40 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:48:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:48:40 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 11:48:40 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:48:40 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 11:48:40 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 11:48:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:48:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 11:48:41 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 11:48:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:48:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:48:41 --> Total execution time: 0.0650
+DEBUG - 2016-11-23 11:49:38 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:49:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:49:38 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 11:49:39 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:49:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:49:39 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 11:49:39 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:49:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:49:39 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 11:49:39 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:49:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:49:40 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 11:49:40 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:49:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:49:40 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 11:49:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:49:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:49:41 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 11:49:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:49:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:49:41 --> Total execution time: 0.0780
+DEBUG - 2016-11-23 11:49:42 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:49:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:49:42 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 11:49:42 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 11:49:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 11:49:42 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 16:28:46 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:28:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:28:46 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 172
+DEBUG - 2016-11-23 16:29:16 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:29:16 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:29:16 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 172
+DEBUG - 2016-11-23 16:29:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:29:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:29:17 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 172
+DEBUG - 2016-11-23 16:29:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:29:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:29:17 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 172
+DEBUG - 2016-11-23 16:29:18 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:29:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:29:18 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 172
+DEBUG - 2016-11-23 16:29:18 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:29:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:29:18 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 172
+DEBUG - 2016-11-23 16:29:18 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:29:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:29:18 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 172
+DEBUG - 2016-11-23 16:30:21 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:30:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:30:21 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:30:22 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:30:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:30:22 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:30:24 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:30:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:30:24 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:30:40 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:30:40 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:30:40 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:30:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:30:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:30:41 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:30:42 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:30:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:30:42 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:30:42 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:30:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:30:42 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:30:43 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:30:43 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:30:43 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:30:43 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:30:43 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:30:43 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:31:18 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:31:18 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:31:19 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:31:19 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:31:19 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:31:19 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:31:19 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:31:19 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:31:21 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:31:21 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:31:26 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:31:26 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:31:27 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:27 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:31:27 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:31:27 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:27 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:31:27 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:31:32 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:31:32 --> 404 Page Not Found: /index
+DEBUG - 2016-11-23 16:31:36 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:31:36 --> 404 Page Not Found: /index
+DEBUG - 2016-11-23 16:31:45 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 16:31:45 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 16:31:45 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 16:31:53 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 16:31:53 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 16:31:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 16:31:55 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 16:31:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:31:55 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 16:31:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 16:31:55 --> UTF-8 Support Enabled
+ERROR - 2016-11-23 16:31:55 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 16:31:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 16:31:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 16:31:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:31:56 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-23 16:31:56 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-23 16:31:56 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 16:31:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 16:31:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 16:31:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:56 --> UTF-8 Support Enabled
+ERROR - 2016-11-23 16:31:56 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-23 16:31:56 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 16:31:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 16:31:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:31:56 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 16:31:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:31:56 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-23 16:31:56 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 16:31:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:31:56 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 16:31:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:31:56 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 16:31:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 16:31:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:31:56 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-23 16:31:56 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 16:31:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:31:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:31:56 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-23 16:32:02 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:32:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:32:02 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:32:20 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:32:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 16:32:20 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 16:32:20 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:32:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:32:20 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 16:32:20 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:32:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:32:20 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 16:32:21 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:32:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 16:32:21 --> Total execution time: 0.0680
+DEBUG - 2016-11-23 16:32:35 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:32:35 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:32:35 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:32:40 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:32:40 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:32:40 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:32:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:32:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:32:41 --> Severity: Parsing Error --> syntax error, unexpected ':' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 174
+DEBUG - 2016-11-23 16:32:46 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:32:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 16:32:46 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 16:32:46 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:32:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:32:46 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 16:32:46 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:32:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:32:46 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 16:32:46 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:32:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 16:32:46 --> Total execution time: 0.0650
+DEBUG - 2016-11-23 16:33:42 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:33:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 16:33:42 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 16:33:43 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:33:43 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:33:43 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 16:33:43 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:33:43 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:33:43 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 16:33:43 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:33:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 16:33:43 --> Total execution time: 0.0770
+DEBUG - 2016-11-23 16:35:19 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:35:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:35:19 --> Query error: Unknown column 'created_log_date' in 'field list' - Invalid query: SELECT id_wlog,id_cat_wlog,name_category_wlog,componen,descriptiont,impac,action,req_date,due_date,pic,status,created_log_date,id_user FROM v_wlog WHERE id_wlog='1'
+DEBUG - 2016-11-23 16:35:21 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:35:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:35:22 --> Query error: Unknown column 'created_log_date' in 'field list' - Invalid query: SELECT id_wlog,id_cat_wlog,name_category_wlog,componen,descriptiont,impac,action,req_date,due_date,pic,status,created_log_date,id_user FROM v_wlog WHERE id_wlog='1'
+DEBUG - 2016-11-23 16:35:58 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:35:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 16:35:58 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 16:36:01 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:36:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:36:01 --> Query error: Unknown column 'created_log_date' in 'field list' - Invalid query: SELECT id_wlog,id_cat_wlog,name_category_wlog,componen,descriptiont,impac,action,req_date,due_date,pic,status,created_log_date,id_user FROM v_wlog WHERE id_wlog='1'
+DEBUG - 2016-11-23 16:39:03 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 16:39:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 16:39:03 --> Query error: Unknown column 'created_log_date' in 'field list' - Invalid query: SELECT id_wlog,id_cat_wlog,name_category_wlog,componen,descriptiont,impac,action,req_date,due_date,pic,status,created_log_date,id_user FROM v_wlog WHERE id_wlog='1'
+DEBUG - 2016-11-23 17:28:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:28:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 17:28:57 --> Query error: Unknown column 'created_log_date' in 'field list' - Invalid query: SELECT id_wlog,id_cat_wlog,name_category_wlog,componen,descriptiont,impac,action,req_date,due_date,pic,status,created_log_date,id_user FROM v_wlog WHERE id_wlog='1'
+DEBUG - 2016-11-23 17:28:59 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:28:59 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 17:28:59 --> Query error: Unknown column 'created_log_date' in 'field list' - Invalid query: SELECT id_wlog,id_cat_wlog,name_category_wlog,componen,descriptiont,impac,action,req_date,due_date,pic,status,created_log_date,id_user FROM v_wlog WHERE id_wlog='1'
+DEBUG - 2016-11-23 17:32:31 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:32:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:32:31 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 17:32:35 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:32:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:32:36 --> Total execution time: 0.1092
+DEBUG - 2016-11-23 17:32:38 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:32:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:32:38 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 17:32:40 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:32:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:32:40 --> Total execution time: 0.0780
+DEBUG - 2016-11-23 17:32:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:32:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:32:41 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 17:32:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:32:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:32:41 --> Total execution time: 0.0780
+DEBUG - 2016-11-23 17:32:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:32:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:32:41 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 17:32:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:32:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:32:41 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 17:32:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:32:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:32:41 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 17:32:44 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:32:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:32:44 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 17:32:46 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:32:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:32:46 --> Total execution time: 0.0780
+DEBUG - 2016-11-23 17:32:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:32:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:32:47 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 17:32:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:32:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 17:32:47 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 17:32:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:32:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 17:32:47 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 17:32:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:32:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:32:47 --> Total execution time: 0.0510
+DEBUG - 2016-11-23 17:34:08 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:34:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 17:34:08 --> Query error: Unknown column 'created_log_date' in 'field list' - Invalid query: SELECT id_wlog,id_cat_wlog,name_category_wlog,componen,descriptiont,impac,action,req_date,due_date,pic,status,created_log_date,id_user FROM v_wlog WHERE id_wlog='2'
+DEBUG - 2016-11-23 17:34:13 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:34:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 17:34:13 --> Query error: Unknown column 'created_log_date' in 'field list' - Invalid query: SELECT id_wlog,id_cat_wlog,name_category_wlog,componen,descriptiont,impac,action,req_date,due_date,pic,status,created_log_date,id_user FROM v_wlog WHERE id_wlog='2'
+DEBUG - 2016-11-23 17:34:32 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:34:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:34:32 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 17:54:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:54:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:54:41 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 17:54:42 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:54:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:54:42 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 17:54:43 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:54:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:54:43 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 17:54:44 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:54:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:54:44 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 17:54:44 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:54:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:54:44 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 17:54:45 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:54:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:54:45 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 17:54:45 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:54:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:54:46 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 17:54:46 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:54:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:54:46 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 17:54:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:54:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:54:48 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 17:54:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:54:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:54:48 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 17:54:49 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:54:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:54:49 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 17:54:50 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:54:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:54:50 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 17:54:51 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:54:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:54:51 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 17:54:52 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:54:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:54:52 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 17:54:53 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 17:54:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 17:54:53 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 18:53:07 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 18:53:07 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 18:53:07 --> Query error: Unknown column 'created_log_date' in 'field list' - Invalid query: SELECT id_wlog,id_cat_wlog,name_category_wlog,componen,descriptiont,impac,action,req_date,due_date,pic,status,created_log_date,id_user FROM v_wlog WHERE id_wlog='1'
+DEBUG - 2016-11-23 18:56:36 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 18:56:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 18:56:36 --> Query error: Unknown column 'created_log_date' in 'field list' - Invalid query: SELECT id_wlog,id_cat_wlog,name_category_wlog,componen,descriptiont,impac,action,req_date,due_date,pic,status,created_log_date,id_user FROM v_wlog WHERE id_wlog='1'
+DEBUG - 2016-11-23 18:58:38 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 18:58:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 18:58:38 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 18:58:38 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 18:58:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 18:58:38 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 18:58:38 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 18:58:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 18:58:38 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 18:58:38 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 18:58:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 18:58:38 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 18:58:46 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 18:58:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 18:58:46 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 18:58:46 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 18:58:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 18:58:46 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 18:58:46 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 18:58:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-23 18:58:46 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-23 18:58:46 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 18:58:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 18:58:46 --> Total execution time: 0.0780
+DEBUG - 2016-11-23 18:59:33 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 18:59:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 18:59:33 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 18:59:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 18:59:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 18:59:34 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 18:59:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 18:59:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 18:59:35 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 18:59:36 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 18:59:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 18:59:36 --> Total execution time: 0.0780
+DEBUG - 2016-11-23 18:59:37 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 18:59:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 18:59:37 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 18:59:40 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 18:59:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 18:59:40 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 19:00:27 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 19:00:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 19:00:27 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 19:00:29 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 19:00:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 19:00:29 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 19:00:30 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 19:00:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 19:00:30 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 19:00:32 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 19:00:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 19:00:32 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 19:00:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 19:00:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 19:00:35 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 19:00:37 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 19:00:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 19:00:38 --> Total execution time: 0.0780
+DEBUG - 2016-11-23 19:00:38 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 19:00:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 19:00:39 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 19:00:40 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 19:00:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 19:00:40 --> Total execution time: 0.0468
+DEBUG - 2016-11-23 19:00:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 19:00:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 19:00:41 --> Total execution time: 0.0624
+DEBUG - 2016-11-23 19:00:43 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 19:00:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 19:00:43 --> Total execution time: 0.0780
+DEBUG - 2016-11-23 19:00:44 --> UTF-8 Support Enabled
+DEBUG - 2016-11-23 19:00:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-23 19:00:44 --> Total execution time: 0.0624

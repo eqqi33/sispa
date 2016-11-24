@@ -83,7 +83,8 @@
                   </span>
                 </a>
                  <ul class="treeview-menu">
-                  <li><a href="#"><i class="fa fa-circle-o"></i> SSR Logs</a></li>
+                  <li><a href="<?= base_url('wlog/c_wlog');?>">
+                  <i class="fa fa-circle-o"></i> SSR Logs</a></li>
                   <li><a href="#"><i class="fa fa-circle-o"></i> Gen21 Logs</a></li>
                 </ul>
               </li>
@@ -202,7 +203,7 @@
           </span>
         </a>
       </li>
-      <li class="active">
+      <li class="treeview">
         <a href="#">
           <i class="fa fa-link"></i>
           <span>Link</span>

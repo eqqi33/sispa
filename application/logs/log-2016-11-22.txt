@@ -1898,3 +1898,1014 @@ DEBUG - 2016-11-22 09:48:34 --> Total execution time: 0.0780
 DEBUG - 2016-11-22 09:50:12 --> UTF-8 Support Enabled
 DEBUG - 2016-11-22 09:50:12 --> Global POST, GET and COOKIE data sanitized
 DEBUG - 2016-11-22 09:50:12 --> Total execution time: 0.0550
+DEBUG - 2016-11-22 09:58:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 09:58:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 09:58:55 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 09:58:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 09:58:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 09:58:55 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-22 09:58:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 09:58:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 09:58:56 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-22 09:58:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 09:58:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 09:58:56 --> Total execution time: 0.0920
+DEBUG - 2016-11-22 09:59:49 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 09:59:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 09:59:49 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 09:59:49 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 09:59:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 09:59:49 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-22 09:59:49 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 09:59:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 09:59:49 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-22 09:59:50 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 09:59:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 09:59:50 --> Total execution time: 0.0850
+DEBUG - 2016-11-22 10:19:21 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:19:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 10:19:21 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 10:19:21 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:19:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:19:21 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-22 10:19:21 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:19:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:19:21 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-22 10:19:21 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:19:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 10:19:21 --> Total execution time: 0.0770
+DEBUG - 2016-11-22 10:19:42 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:19:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 10:19:42 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 10:19:42 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:19:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:19:42 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-22 10:19:42 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:19:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:19:42 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-22 10:19:43 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:19:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 10:19:43 --> Total execution time: 0.0870
+DEBUG - 2016-11-22 10:23:04 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:23:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 10:23:04 --> Total execution time: 0.0468
+DEBUG - 2016-11-22 10:23:04 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:23:04 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:23:04 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-22 10:23:04 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:23:04 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:23:04 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-22 10:23:04 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:23:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 10:23:04 --> Total execution time: 0.0610
+DEBUG - 2016-11-22 10:23:12 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:23:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:23:12 --> 404 Page Not Found: wlog/C_wlog/index
+DEBUG - 2016-11-22 10:23:35 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:23:35 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:23:35 --> 404 Page Not Found: wlog/C_wlog/index
+DEBUG - 2016-11-22 10:23:50 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:23:50 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:23:50 --> 404 Page Not Found: wlog/C_wlog/index
+DEBUG - 2016-11-22 10:23:51 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:23:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:23:51 --> 404 Page Not Found: wlog/C_wlog/index
+DEBUG - 2016-11-22 10:23:51 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:23:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:23:51 --> 404 Page Not Found: wlog/C_wlog/index
+DEBUG - 2016-11-22 10:23:51 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:23:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:23:51 --> 404 Page Not Found: wlog/C_wlog/index
+DEBUG - 2016-11-22 10:23:52 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:23:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:23:52 --> 404 Page Not Found: wlog/C_wlog/index
+DEBUG - 2016-11-22 10:25:22 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:25:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 10:25:22 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 10:25:22 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:25:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:25:22 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-22 10:25:23 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:25:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:25:23 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-22 10:25:23 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:25:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 10:25:23 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 10:25:24 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:25:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 10:25:24 --> Total execution time: 0.0468
+DEBUG - 2016-11-22 10:25:24 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:25:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:25:24 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-22 10:25:24 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:25:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:25:24 --> 404 Page Not Found: sop/Dist/img
+DEBUG - 2016-11-22 10:25:24 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:25:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 10:25:24 --> Total execution time: 0.0830
+DEBUG - 2016-11-22 10:25:29 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:25:29 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:25:29 --> 404 Page Not Found: wlog/C_wlog/index
+DEBUG - 2016-11-22 10:26:38 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:26:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 10:26:38 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 10:26:38 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:26:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:26:38 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 10:26:39 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:26:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 10:26:39 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 10:26:39 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 10:26:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 10:26:39 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 11:08:28 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:08:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 11:08:28 --> Severity: Parsing Error --> syntax error, unexpected 'db' (T_STRING) C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 39
+DEBUG - 2016-11-22 11:12:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:12:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 11:12:05 --> Severity: Parsing Error --> syntax error, unexpected 'db' (T_STRING) C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 39
+DEBUG - 2016-11-22 11:12:40 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:12:40 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 11:12:40 --> Severity: Parsing Error --> syntax error, unexpected 'db' (T_STRING) C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 39
+DEBUG - 2016-11-22 11:12:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:12:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 11:12:42 --> Severity: Parsing Error --> syntax error, unexpected 'db' (T_STRING) C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 39
+DEBUG - 2016-11-22 11:12:42 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:12:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 11:12:42 --> Severity: Parsing Error --> syntax error, unexpected 'db' (T_STRING) C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 39
+DEBUG - 2016-11-22 11:14:22 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:14:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 11:14:22 --> Severity: Parsing Error --> syntax error, unexpected 'db' (T_STRING) C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 39
+DEBUG - 2016-11-22 11:14:23 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:14:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 11:14:23 --> Severity: Parsing Error --> syntax error, unexpected 'db' (T_STRING) C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 39
+DEBUG - 2016-11-22 11:15:12 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:15:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 11:15:12 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 11:15:12 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:15:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 11:15:12 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 11:15:13 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:15:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 11:15:13 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 11:15:13 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:15:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 11:15:13 --> Total execution time: 0.0730
+DEBUG - 2016-11-22 11:30:52 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:30:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 11:30:52 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 11:30:52 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:30:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 11:30:52 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 11:30:52 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:30:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 11:30:52 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 11:30:53 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:30:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 11:30:53 --> Total execution time: 0.0870
+DEBUG - 2016-11-22 11:34:03 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:34:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 11:34:03 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 11:34:03 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:34:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 11:34:03 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 11:34:03 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:34:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 11:34:03 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 11:34:04 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:34:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 11:34:04 --> Total execution time: 0.0840
+DEBUG - 2016-11-22 11:35:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:35:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 11:35:05 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 11:35:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:35:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 11:35:05 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 11:35:06 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:35:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 11:35:06 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 11:35:06 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:35:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 11:35:07 --> Total execution time: 0.0760
+DEBUG - 2016-11-22 11:35:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:35:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 11:35:55 --> Total execution time: 0.0468
+DEBUG - 2016-11-22 11:35:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:35:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 11:35:55 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 11:35:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:35:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 11:35:55 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 11:35:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:35:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 11:35:56 --> Total execution time: 0.0590
+DEBUG - 2016-11-22 11:37:51 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:37:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 11:37:51 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 11:37:51 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:37:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 11:37:51 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 11:37:51 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:37:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 11:37:51 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 11:37:51 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 11:37:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 11:37:52 --> Total execution time: 0.0750
+DEBUG - 2016-11-22 13:54:36 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:54:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 13:54:36 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:54:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 13:54:36 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 13:54:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:54:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 13:54:56 --> Total execution time: 0.0468
+DEBUG - 2016-11-22 13:55:02 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 13:55:02 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 13:55:04 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 13:55:04 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 13:55:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 13:55:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 13:55:05 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 13:55:13 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 13:55:13 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 13:55:14 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 13:55:14 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 13:55:14 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 13:55:14 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 13:55:14 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 13:55:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 13:55:14 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 14:01:57 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:01:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:01:57 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 14:01:57 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:01:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:01:57 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:01:57 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:01:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:01:57 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:01:58 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:01:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:01:58 --> Total execution time: 0.0880
+DEBUG - 2016-11-22 14:02:43 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:02:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:02:43 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 14:02:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:02:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:02:47 --> Total execution time: 0.0936
+DEBUG - 2016-11-22 14:05:28 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:05:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:05:28 --> Query error: Table 'db_dummy_pr1.name_category_wlog' doesn't exist - Invalid query: SELECT id_wlog,componen FROM name_category_wlog
+DEBUG - 2016-11-22 14:06:12 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:06:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:06:12 --> Query error: Unknown column 'id_wlog' in 'field list' - Invalid query: SELECT id_wlog,name_category_wlog FROM category_wlog
+DEBUG - 2016-11-22 14:06:50 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:06:50 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:06:50 --> Severity: Notice --> Undefined property: stdClass::$id_cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 497
+ERROR - 2016-11-22 14:06:50 --> Severity: Notice --> Undefined property: stdClass::$name_category_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 497
+ERROR - 2016-11-22 14:06:50 --> Severity: Notice --> Undefined property: stdClass::$id_cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 497
+ERROR - 2016-11-22 14:06:50 --> Severity: Notice --> Undefined property: stdClass::$name_category_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 497
+DEBUG - 2016-11-22 14:06:50 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 14:06:50 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:06:50 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:06:50 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:06:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:06:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:06:55 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:06:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:06:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:06:55 --> Total execution time: 0.0620
+DEBUG - 2016-11-22 14:11:02 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:11:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:11:02 --> Total execution time: 0.0468
+DEBUG - 2016-11-22 14:17:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:17:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:17:48 --> Severity: Notice --> Undefined property: stdClass::$id_cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 497
+ERROR - 2016-11-22 14:17:48 --> Severity: Notice --> Undefined property: stdClass::$name_category_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 497
+ERROR - 2016-11-22 14:17:48 --> Severity: Notice --> Undefined property: stdClass::$id_cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 497
+ERROR - 2016-11-22 14:17:48 --> Severity: Notice --> Undefined property: stdClass::$name_category_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 497
+DEBUG - 2016-11-22 14:17:48 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 14:17:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:17:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:17:48 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:17:49 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:17:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:17:49 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:17:49 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:17:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:17:49 --> Total execution time: 0.0800
+DEBUG - 2016-11-22 14:20:32 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:20:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:20:32 --> Severity: Notice --> Undefined property: stdClass::$id_cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 497
+ERROR - 2016-11-22 14:20:33 --> Severity: Notice --> Undefined property: stdClass::$name_category_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 497
+ERROR - 2016-11-22 14:20:33 --> Severity: Notice --> Undefined property: stdClass::$id_cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 497
+ERROR - 2016-11-22 14:20:33 --> Severity: Notice --> Undefined property: stdClass::$name_category_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 497
+DEBUG - 2016-11-22 14:20:33 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 14:20:33 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:20:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:20:33 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:20:33 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:20:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:20:33 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:20:33 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:20:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:20:33 --> Total execution time: 0.1050
+DEBUG - 2016-11-22 14:22:13 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:22:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:22:13 --> Severity: Notice --> Undefined property: stdClass::$id_cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 497
+ERROR - 2016-11-22 14:22:13 --> Severity: Notice --> Undefined property: stdClass::$name_category_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 497
+ERROR - 2016-11-22 14:22:13 --> Severity: Notice --> Undefined property: stdClass::$id_cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 497
+ERROR - 2016-11-22 14:22:13 --> Severity: Notice --> Undefined property: stdClass::$name_category_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 497
+DEBUG - 2016-11-22 14:22:13 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 14:22:13 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:22:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:22:13 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:22:13 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:22:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:22:13 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:22:14 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:22:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:22:14 --> 404 Page Not Found: wlog/C_wlog/ajax_tabel_wlog
+DEBUG - 2016-11-22 14:26:00 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:26:00 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:26:00 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 496
+ERROR - 2016-11-22 14:26:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 496
+DEBUG - 2016-11-22 14:26:00 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 14:26:00 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:26:00 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:26:00 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:26:00 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:26:00 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:26:00 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:26:01 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:26:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:26:01 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 14:28:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:28:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:28:05 --> Total execution time: 0.0468
+DEBUG - 2016-11-22 14:28:14 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:28:15 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:28:17 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:17 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:28:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-22 14:28:17 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-22 14:28:26 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:28:26 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 496
+ERROR - 2016-11-22 14:28:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 496
+DEBUG - 2016-11-22 14:28:26 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 14:28:26 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:28:26 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:28:26 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:28:26 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:28:27 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:28:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:28:27 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 14:33:06 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:33:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:33:06 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 496
+ERROR - 2016-11-22 14:33:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 496
+DEBUG - 2016-11-22 14:33:06 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 14:33:06 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:33:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:33:06 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:33:07 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:33:07 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:33:07 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:33:07 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:33:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:33:07 --> Total execution time: 0.0580
+DEBUG - 2016-11-22 14:33:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:33:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:33:34 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 496
+ERROR - 2016-11-22 14:33:34 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 496
+DEBUG - 2016-11-22 14:33:34 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 14:33:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:33:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:33:34 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:33:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:33:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:33:34 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:33:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:33:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:33:35 --> Total execution time: 0.0690
+DEBUG - 2016-11-22 14:33:44 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:33:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:33:44 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 496
+ERROR - 2016-11-22 14:33:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 496
+DEBUG - 2016-11-22 14:33:44 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 14:33:44 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:33:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:33:44 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:33:45 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:33:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:33:45 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:33:45 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:33:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:33:45 --> Total execution time: 0.0690
+DEBUG - 2016-11-22 14:34:12 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:34:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:34:12 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 496
+ERROR - 2016-11-22 14:34:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 496
+DEBUG - 2016-11-22 14:34:12 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 14:34:12 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:34:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:34:12 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:34:12 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:34:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:34:12 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:34:12 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:34:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:34:12 --> Total execution time: 0.0840
+DEBUG - 2016-11-22 14:37:09 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:37:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:37:09 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 496
+ERROR - 2016-11-22 14:37:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 496
+DEBUG - 2016-11-22 14:37:09 --> Total execution time: 0.0468
+DEBUG - 2016-11-22 14:37:09 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:37:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:37:09 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:37:09 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:37:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:37:09 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:37:09 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:37:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:37:09 --> Total execution time: 0.0690
+DEBUG - 2016-11-22 14:42:13 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:42:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:42:13 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 501
+ERROR - 2016-11-22 14:42:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 501
+DEBUG - 2016-11-22 14:42:13 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 14:42:13 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:42:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:42:13 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:42:13 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:42:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:42:13 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:42:13 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:42:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:42:13 --> Total execution time: 0.0710
+DEBUG - 2016-11-22 14:46:54 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:46:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:46:54 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 501
+ERROR - 2016-11-22 14:46:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 501
+DEBUG - 2016-11-22 14:46:54 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 14:46:54 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:46:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:46:54 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:46:54 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:46:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:46:54 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:46:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:46:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:46:55 --> Total execution time: 0.0670
+DEBUG - 2016-11-22 14:47:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:47:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:47:05 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 505
+ERROR - 2016-11-22 14:47:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 505
+DEBUG - 2016-11-22 14:47:05 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 14:47:05 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:47:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:47:05 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:47:06 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:47:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:47:06 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:47:06 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:47:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:47:06 --> Total execution time: 0.0620
+DEBUG - 2016-11-22 14:48:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:48:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:48:47 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+ERROR - 2016-11-22 14:48:47 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+DEBUG - 2016-11-22 14:48:47 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 14:48:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:48:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:48:47 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:48:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:48:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:48:48 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:48:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:48:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:48:48 --> Total execution time: 0.0800
+DEBUG - 2016-11-22 14:49:14 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:49:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:49:14 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+ERROR - 2016-11-22 14:49:14 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+DEBUG - 2016-11-22 14:49:14 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 14:49:14 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:49:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:49:14 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:49:14 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:49:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:49:14 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:49:15 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:49:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:49:15 --> Total execution time: 0.0680
+DEBUG - 2016-11-22 14:50:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:50:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:50:41 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+ERROR - 2016-11-22 14:50:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+DEBUG - 2016-11-22 14:50:41 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 14:50:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:50:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:50:41 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:50:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:50:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:50:41 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:50:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:50:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:50:41 --> Total execution time: 0.0880
+DEBUG - 2016-11-22 14:51:54 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:51:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:51:54 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+ERROR - 2016-11-22 14:51:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+DEBUG - 2016-11-22 14:51:54 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 14:51:54 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:51:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:51:55 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:51:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:51:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:51:55 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:51:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:51:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:51:55 --> Total execution time: 0.0730
+DEBUG - 2016-11-22 14:52:44 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:52:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:52:44 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+ERROR - 2016-11-22 14:52:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+DEBUG - 2016-11-22 14:52:44 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 14:52:44 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:52:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:52:44 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:52:45 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:52:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:52:45 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:52:45 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:52:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:55:03 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:55:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:55:03 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+ERROR - 2016-11-22 14:55:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+DEBUG - 2016-11-22 14:55:03 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 14:55:03 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:55:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:55:03 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:55:04 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:55:04 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:55:04 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:55:04 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:55:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:55:05 --> Total execution time: 0.0790
+DEBUG - 2016-11-22 14:55:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:55:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:55:55 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+ERROR - 2016-11-22 14:55:55 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+DEBUG - 2016-11-22 14:55:55 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 14:55:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:55:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:55:55 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:55:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:55:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 14:55:55 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 14:55:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 14:55:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 14:55:55 --> Total execution time: 0.0690
+DEBUG - 2016-11-22 16:07:06 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:07:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:07:06 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+ERROR - 2016-11-22 16:07:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+DEBUG - 2016-11-22 16:07:06 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 16:07:06 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:07:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:07:06 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 16:07:06 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:07:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:07:06 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 16:07:07 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:07:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 16:07:07 --> Total execution time: 0.0690
+DEBUG - 2016-11-22 16:07:11 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:07:11 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:07:11 --> Query error: Unknown column 'created_log_date' in 'field list' - Invalid query: SELECT id_wlog,id_cat_wlog,name_category_wlog,componen,descriptiont,impac,action,req_date,due_date,pic,status,created_log_date,id_user FROM v_wlog WHERE id_wlog='1'
+DEBUG - 2016-11-22 16:07:19 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:07:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:07:19 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+ERROR - 2016-11-22 16:07:19 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+DEBUG - 2016-11-22 16:07:19 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 16:07:19 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:07:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:07:19 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 16:07:20 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:07:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:07:20 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 16:07:20 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:07:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 16:07:20 --> Total execution time: 0.0690
+DEBUG - 2016-11-22 16:07:22 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:07:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:07:22 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+ERROR - 2016-11-22 16:07:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+DEBUG - 2016-11-22 16:07:22 --> Total execution time: 0.0610
+DEBUG - 2016-11-22 16:07:22 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:07:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:07:22 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 16:07:22 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:07:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:07:22 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 16:07:23 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:07:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 16:07:23 --> Total execution time: 0.0650
+DEBUG - 2016-11-22 16:07:32 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:07:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:07:32 --> Query error: Unknown column 'created_log_date' in 'field list' - Invalid query: SELECT id_wlog,id_cat_wlog,name_category_wlog,componen,descriptiont,impac,action,req_date,due_date,pic,status,created_log_date,id_user FROM v_wlog WHERE id_wlog='1'
+DEBUG - 2016-11-22 16:53:21 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:53:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 16:53:22 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 16:53:22 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:53:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 16:53:22 --> Total execution time: 0.0468
+DEBUG - 2016-11-22 16:53:23 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:53:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 16:53:23 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 16:53:25 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:53:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:53:25 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+ERROR - 2016-11-22 16:53:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+DEBUG - 2016-11-22 16:53:25 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 16:53:25 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:53:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:53:25 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 16:53:26 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:53:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:53:26 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 16:53:26 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:53:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 16:53:26 --> Total execution time: 0.0920
+DEBUG - 2016-11-22 16:54:04 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:54:04 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:54:04 --> Query error: Unknown column 'created_log_date' in 'field list' - Invalid query: SELECT id_wlog,id_cat_wlog,name_category_wlog,componen,descriptiont,impac,action,req_date,due_date,pic,status,created_log_date,id_user FROM v_wlog WHERE id_wlog='1'
+DEBUG - 2016-11-22 16:59:38 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:59:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:59:38 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 502
+ERROR - 2016-11-22 16:59:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 502
+DEBUG - 2016-11-22 16:59:38 --> Total execution time: 0.0936
+DEBUG - 2016-11-22 16:59:38 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:59:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:59:38 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 16:59:39 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:59:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:59:39 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 16:59:54 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:59:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:59:54 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 502
+ERROR - 2016-11-22 16:59:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 502
+DEBUG - 2016-11-22 16:59:54 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 16:59:54 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:59:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:59:54 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 16:59:54 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 16:59:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 16:59:54 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:00:20 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:00:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:00:20 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 502
+ERROR - 2016-11-22 17:00:20 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 502
+DEBUG - 2016-11-22 17:00:20 --> Total execution time: 0.1092
+DEBUG - 2016-11-22 17:00:20 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:00:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:00:20 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:00:20 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:00:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:00:20 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:00:25 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:00:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:00:25 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+ERROR - 2016-11-22 17:00:25 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+DEBUG - 2016-11-22 17:00:25 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 17:00:25 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:00:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:00:25 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:00:26 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:00:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:00:26 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:00:42 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:00:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:00:42 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+ERROR - 2016-11-22 17:00:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+DEBUG - 2016-11-22 17:00:42 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 17:00:42 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:00:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:00:42 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:00:42 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:00:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:00:42 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:00:43 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:00:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:00:43 --> Total execution time: 0.0820
+DEBUG - 2016-11-22 17:01:21 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:01:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:01:21 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+ERROR - 2016-11-22 17:01:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+DEBUG - 2016-11-22 17:01:21 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 17:01:21 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:01:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:01:21 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:01:21 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:01:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:01:21 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:01:22 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:01:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:01:22 --> Total execution time: 0.0670
+DEBUG - 2016-11-22 17:01:24 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:01:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:01:24 --> Query error: Unknown column 'created_log_date' in 'field list' - Invalid query: SELECT id_wlog,id_cat_wlog,name_category_wlog,componen,descriptiont,impac,action,req_date,due_date,pic,status,created_log_date,id_user FROM v_wlog WHERE id_wlog='1'
+DEBUG - 2016-11-22 17:01:52 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:01:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:01:52 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+ERROR - 2016-11-22 17:01:52 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 506
+DEBUG - 2016-11-22 17:01:52 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 17:01:52 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:01:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:01:52 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:01:52 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:01:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:01:52 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:01:52 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:01:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:01:52 --> Total execution time: 0.0730
+DEBUG - 2016-11-22 17:01:54 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:01:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:01:54 --> Query error: Unknown column 'created_log_date' in 'field list' - Invalid query: SELECT id_wlog,id_cat_wlog,name_category_wlog,componen,descriptiont,impac,action,req_date,due_date,pic,status,created_log_date,id_user FROM v_wlog WHERE id_wlog='1'
+DEBUG - 2016-11-22 17:02:46 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:02:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:02:46 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 503
+ERROR - 2016-11-22 17:02:46 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 503
+DEBUG - 2016-11-22 17:02:46 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 17:02:46 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:02:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:02:46 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:02:46 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:02:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:02:46 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:02:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:02:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:02:47 --> Total execution time: 0.0730
+DEBUG - 2016-11-22 17:02:49 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:02:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:02:49 --> Query error: Unknown column 'created_log_date' in 'field list' - Invalid query: SELECT id_wlog,id_cat_wlog,name_category_wlog,componen,descriptiont,impac,action,req_date,due_date,pic,status,created_log_date,id_user FROM v_wlog WHERE id_wlog='1'
+DEBUG - 2016-11-22 17:05:28 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:05:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:05:28 --> Severity: Parsing Error --> syntax error, unexpected 'echo' (T_ECHO), expecting ')' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 51
+DEBUG - 2016-11-22 17:05:33 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:05:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:05:33 --> Severity: Parsing Error --> syntax error, unexpected 'echo' (T_ECHO), expecting ')' C:\xampp\htdocs\sispa-ci\application\controllers\wlog\C_wlog.php 51
+DEBUG - 2016-11-22 17:09:28 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:09:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:09:28 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 503
+ERROR - 2016-11-22 17:09:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 503
+DEBUG - 2016-11-22 17:09:28 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 17:09:28 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:09:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:09:28 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:09:28 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:09:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:09:28 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:09:29 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:09:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:09:29 --> Total execution time: 0.0800
+DEBUG - 2016-11-22 17:20:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:20:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:20:41 --> Severity: Notice --> Undefined variable: cat_sop C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 503
+ERROR - 2016-11-22 17:20:41 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\sispa-ci\application\views\backend\wlog\v_wlog.php 503
+DEBUG - 2016-11-22 17:20:41 --> Total execution time: 0.0780
+DEBUG - 2016-11-22 17:20:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:20:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:20:41 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:20:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:20:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:20:41 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:20:41 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:20:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:20:41 --> Total execution time: 0.0710
+DEBUG - 2016-11-22 17:37:46 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:37:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:37:47 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 17:37:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:37:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:37:47 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:37:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:37:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:37:47 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:37:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:37:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:37:47 --> Total execution time: 0.0770
+DEBUG - 2016-11-22 17:38:26 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:38:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:38:26 --> Total execution time: 0.0468
+DEBUG - 2016-11-22 17:38:26 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:38:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:38:26 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:38:26 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:38:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:38:26 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:38:26 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:38:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:38:26 --> Total execution time: 0.0770
+DEBUG - 2016-11-22 17:42:28 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:42:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:42:28 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 17:42:28 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:42:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:42:28 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:42:29 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:42:29 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:42:29 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:42:29 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:42:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:42:29 --> Total execution time: 0.0650
+DEBUG - 2016-11-22 17:47:57 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:47:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:47:57 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 17:47:57 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:47:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:47:57 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:47:57 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:47:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:47:57 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:47:57 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:47:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:47:58 --> Total execution time: 0.0650
+DEBUG - 2016-11-22 17:49:25 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:49:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:49:25 --> Total execution time: 0.0468
+DEBUG - 2016-11-22 17:49:25 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:49:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:49:25 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:49:25 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:49:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:49:25 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:49:25 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:49:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:49:26 --> Total execution time: 0.0770
+DEBUG - 2016-11-22 17:55:12 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:55:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:55:12 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 17:55:12 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:55:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:55:12 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:55:12 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:55:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:55:12 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:55:13 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:55:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:55:13 --> Total execution time: 0.0760
+DEBUG - 2016-11-22 17:55:37 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:55:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:55:37 --> Total execution time: 0.0624
+DEBUG - 2016-11-22 17:55:37 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:55:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:55:37 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:55:37 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:55:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 17:55:37 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 17:55:38 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 17:55:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 17:55:38 --> Total execution time: 0.0620
+DEBUG - 2016-11-22 18:28:09 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 18:28:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 18:28:10 --> Total execution time: 0.0936
+DEBUG - 2016-11-22 18:28:10 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 18:28:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 18:28:10 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 18:28:10 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 18:28:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-22 18:28:10 --> 404 Page Not Found: wlog/Dist/img
+DEBUG - 2016-11-22 18:28:10 --> UTF-8 Support Enabled
+DEBUG - 2016-11-22 18:28:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-22 18:28:11 --> Total execution time: 0.1020
