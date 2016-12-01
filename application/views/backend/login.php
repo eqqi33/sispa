@@ -137,7 +137,7 @@
   function login(){        
     $('#login-btn').attr('disabled',true);
     var formData = new FormData($('form')[0]);
-    var url = "<?php echo site_url('admin/auth_login/')?>";
+    var url = "<?php echo site_url('admin/index/auth_login/')?>";
     var user = $('[name="username"]').val();
     var pass = $('[name="password"]').val();
     if((user === null || user === "") && (pass === null || pass === "")){

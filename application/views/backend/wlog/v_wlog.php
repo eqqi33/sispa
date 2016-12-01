@@ -182,7 +182,7 @@
           [6, 10, 25, 50, "All"]
         ],
         "dom": "<'row am-datatable-header'<'col-sm-3'l><'col-sm-6 text-right'B><'col-sm-3 text-right'f>><'row am-datatable-body'<'col-sm-12'tr>><'row am-datatable-footer'<'col-sm-5'i><'col-sm-7'p>>",
-        "ajax": "<?php echo site_url('wlog/c_wlog/ajax_tabel_wlog'); ?>",
+        "ajax": "<?php echo site_url('admin/wlog/c_wlog/ajax_tabel_wlog'); ?>",
         "columns": [
             {
                 "data": "id_wlog",
@@ -257,7 +257,7 @@
       //$("#loading-2").html('<div style="margin-top:-265px;margin-left:-150px;width:150%; height:110%;z-index: 1040;position:fixed;background-color:rgba(0, 0, 0, 0.37);""><div style="margin:10% 35%;"><img src="<?php echo site_url()?>assets/img/default.svg" style="width:150px;height:150px;"></div></div>');
       //Ajax Load data from ajax
       $.ajax({
-          url : "<?php echo site_url('wlog/c_wlog/ajax_preview/')?>" + id,
+          url : "<?php echo site_url('admin/wlog/c_wlog/ajax_preview/')?>" + id,
           type: "GET",
           dataType: "JSON",
           success: function(data)
@@ -305,7 +305,7 @@
       //$("#loading-2").html('<div style="margin-top:-265px;margin-left:-150px;width:150%; height:110%;z-index: 1040;position:fixed;background-color:rgba(0, 0, 0, 0.37);""><div style="margin:10% 35%;"><img src="<?php echo site_url()?>assets/img/default.svg" style="width:150px;height:150px;"></div></div>');
       //Ajax Load data from ajax
       $.ajax({
-          url : "<?php echo site_url('wlog/c_wlog/ajax_edit/')?>" + id,
+          url : "<?php echo site_url('admin/wlog/c_wlog/ajax_edit/')?>" + id,
           type: "GET",
           dataType: "JSON",
           success: function(data)
@@ -356,7 +356,7 @@
     $.ajax({
       data: formData,
       type: "POST",
-      url: '<?php echo site_url('wlog/c_wlog/saveuploadedfile')?>',
+      url: '<?php echo site_url('admin/wlog/c_wlog/saveuploadedfile')?>',
       cache: false,
       contentType: false,
       processData: false,
@@ -374,9 +374,9 @@
       $('#save_button').text('saving...'); //change button text
       $('#save_button').attr('disabled',true); //set button disable
       if(save_method == 'add') {
-          url = "<?php echo site_url('wlog/c_wlog/ajax_add');?>";
+          url = "<?php echo site_url('admin/wlog/c_wlog/ajax_add');?>";
       } else if(save_method == 'update'){
-          url = "<?php echo site_url('wlog/c_wlog/ajax_update');?>";                          
+          url = "<?php echo site_url('admin/wlog/c_wlog/ajax_update');?>";                          
       }
       // ajax adding data to database
       var componen = $('[name="componen"]').val();
@@ -441,7 +441,7 @@
       swal.close();
       // ajax delete data to database
       $.ajax({
-        url :  "<?php echo site_url('wlog/c_wlog/ajax_delete')?>/"+id,
+        url :  "<?php echo site_url('admin/wlog/c_wlog/ajax_delete')?>/"+id,
         type: "POST",
         dataType: "JSON",
         beforeSend: function(data){

@@ -1,0 +1,420 @@
+DEBUG - 2016-11-30 23:02:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:02:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:02:36 --> Severity: Warning --> mysqli::real_connect(): (HY000/1049): Unknown database 'db_dummy_pr1' C:\xampp\htdocs\sispa-ci\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2016-11-30 23:02:36 --> Unable to connect to the database
+DEBUG - 2016-11-30 23:03:54 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:03:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:03:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:03:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:03:56 --> Total execution time: 1.0462
+DEBUG - 2016-11-30 23:04:03 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:04:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:04:04 --> Total execution time: 1.0565
+DEBUG - 2016-11-30 23:04:13 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:04:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:04:14 --> Total execution time: 1.0689
+DEBUG - 2016-11-30 23:04:18 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:04:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:04:19 --> Total execution time: 1.0790
+DEBUG - 2016-11-30 23:04:21 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:04:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:04:22 --> Total execution time: 1.0827
+DEBUG - 2016-11-30 23:04:23 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:04:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:04:23 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:04:23 --> UTF-8 Support Enabled
+ERROR - 2016-11-30 23:04:23 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:04:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:04:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:04:23 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:04:23 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:04:23 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:04:23 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:04:23 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:04:23 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:04:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:04:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:04:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:04:23 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:04:23 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:04:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:04:23 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:04:23 --> UTF-8 Support Enabled
+ERROR - 2016-11-30 23:04:23 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:04:23 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:04:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:04:23 --> UTF-8 Support Enabled
+ERROR - 2016-11-30 23:04:23 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:04:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:04:23 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:04:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:04:23 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:52:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:52:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:52:48 --> Total execution time: 1.0652
+DEBUG - 2016-11-30 23:52:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:52:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:52:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:52:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:52:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:52:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:52:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:52:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:52:48 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:52:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:52:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:52:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:52:48 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:52:48 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:52:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:52:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:52:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:52:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:52:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:52:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:52:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:52:48 --> UTF-8 Support Enabled
+ERROR - 2016-11-30 23:52:48 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:52:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:52:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:52:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:52:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:52:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:52:48 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:52:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:52:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:52:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:52:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:52:48 --> UTF-8 Support Enabled
+ERROR - 2016-11-30 23:52:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:52:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:52:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:52:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:52:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:52:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:52:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:52:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:52:48 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:52:48 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:52:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:53:54 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:53:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:53:55 --> Total execution time: 1.0602
+DEBUG - 2016-11-30 23:53:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:53:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:53:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:53:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:53:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:53:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:53:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:53:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:53:55 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:53:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:53:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:53:55 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:53:55 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:53:55 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:53:55 --> UTF-8 Support Enabled
+ERROR - 2016-11-30 23:53:55 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:53:55 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:53:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:53:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:53:56 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:53:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:53:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:53:56 --> UTF-8 Support Enabled
+ERROR - 2016-11-30 23:53:56 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:53:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:53:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:53:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:53:56 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:53:56 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:53:56 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:53:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:53:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:53:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:53:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:53:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:53:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:53:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:53:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:53:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:53:56 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:53:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:53:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:53:56 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:53:56 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:53:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:53:56 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:53:56 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:53:56 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:53:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:53:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:53:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:53:56 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:53:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:53:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:53:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:53:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:53:56 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:53:56 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:53:56 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:53:56 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:54:46 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:54:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:54:47 --> Total execution time: 1.0786
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:54:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:54:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:54:47 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:32 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:33 --> Total execution time: 1.0576
+DEBUG - 2016-11-30 23:55:33 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:33 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:33 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:33 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:33 --> UTF-8 Support Enabled
+ERROR - 2016-11-30 23:55:33 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:33 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:33 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:33 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:33 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:55:33 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:55:33 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:33 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:33 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:33 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:33 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:33 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:55:33 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:55:33 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:55:33 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:33 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:33 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:33 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:33 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:34 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:55:34 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:34 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:55:34 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:34 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:55:34 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:34 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:34 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:55:34 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:55:34 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:55:34 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:47 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:48 --> Total execution time: 1.0556
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:55:48 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:55:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:55:48 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:56:00 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:56:00 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:56:00 --> 404 Page Not Found: Data_user/index
+DEBUG - 2016-11-30 23:56:01 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:56:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:56:02 --> Total execution time: 1.0501
+DEBUG - 2016-11-30 23:56:02 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:56:02 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:56:02 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:56:02 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:56:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:56:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:56:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:56:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:56:02 --> UTF-8 Support Enabled
+ERROR - 2016-11-30 23:56:02 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:56:02 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:56:02 --> UTF-8 Support Enabled
+ERROR - 2016-11-30 23:56:02 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:56:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:56:02 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:56:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:56:02 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:56:02 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:56:02 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:56:02 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:56:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:56:02 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:56:02 --> UTF-8 Support Enabled
+ERROR - 2016-11-30 23:56:03 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:56:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:56:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:56:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:56:03 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:56:03 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:56:03 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:56:03 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:56:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:56:03 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:56:03 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:56:03 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:56:03 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:56:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:56:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:56:03 --> UTF-8 Support Enabled
+ERROR - 2016-11-30 23:56:03 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:56:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:56:03 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:56:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:56:03 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:56:03 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:56:03 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:56:03 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:56:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:56:03 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:56:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:56:03 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:56:03 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:56:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:56:03 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:56:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-11-30 23:56:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:56:03 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:56:03 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:56:03 --> 404 Page Not Found: Admin/dist
+ERROR - 2016-11-30 23:56:03 --> 404 Page Not Found: Admin/dist
+DEBUG - 2016-11-30 23:56:32 --> UTF-8 Support Enabled
+DEBUG - 2016-11-30 23:56:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-11-30 23:56:32 --> 404 Page Not Found: Data_user/index

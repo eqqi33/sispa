@@ -1,0 +1,641 @@
+DEBUG - 2016-12-01 02:02:12 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:02:12 --> No URI present. Default controller set.
+DEBUG - 2016-12-01 02:02:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:02:12 --> 404 Page Not Found: admin/Index/index
+DEBUG - 2016-12-01 02:02:36 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:02:36 --> No URI present. Default controller set.
+DEBUG - 2016-12-01 02:02:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:02:37 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:02:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:02:37 --> 404 Page Not Found: admin/Login/index
+DEBUG - 2016-12-01 02:09:58 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:09:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:09:59 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:09:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:00 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:01 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:02 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:03 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:04 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:05 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:07 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:08 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:09 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:10 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:11 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:12 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:13 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:14 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:16 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:17 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:18 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:19 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:20 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:52 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:53 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:10:54 --> Total execution time: 1.0638
+DEBUG - 2016-12-01 02:10:59 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:10:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:11:00 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:11:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:11:01 --> Total execution time: 1.0648
+DEBUG - 2016-12-01 02:11:07 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:11:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:11:08 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:11:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:11:09 --> Total execution time: 1.0641
+DEBUG - 2016-12-01 02:12:51 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:12:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:12:52 --> Total execution time: 1.0722
+DEBUG - 2016-12-01 02:12:57 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:12:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:12:58 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:12:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:12:59 --> Total execution time: 1.0872
+DEBUG - 2016-12-01 02:13:10 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:13:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:13:11 --> Total execution time: 1.0776
+DEBUG - 2016-12-01 02:13:15 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:13:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:13:17 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:13:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:13:18 --> Total execution time: 1.0576
+DEBUG - 2016-12-01 02:14:03 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:14:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:14:04 --> Total execution time: 1.0835
+DEBUG - 2016-12-01 02:14:07 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:14:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:14:08 --> Total execution time: 1.0810
+DEBUG - 2016-12-01 02:14:11 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:14:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:14:12 --> Total execution time: 1.0611
+DEBUG - 2016-12-01 02:14:12 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:14:12 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:14:12 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:14:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:14:12 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:14:12 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:14:12 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:14:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:14:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:14:12 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 02:14:12 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:14:12 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:14:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:14:12 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:14:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:14:12 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:14:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:14:12 --> UTF-8 Support Enabled
+ERROR - 2016-12-01 02:14:12 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:14:12 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:14:12 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:14:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:14:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:14:12 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:14:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:14:12 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 02:14:12 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:14:12 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:14:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:14:12 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:14:12 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:14:12 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:14:12 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:14:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:14:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:14:12 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:14:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:14:12 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 02:14:12 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:14:12 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:14:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:14:12 --> 404 Page Not Found: Assets/backend
+DEBUG - 2016-12-01 02:14:22 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:14:22 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:14:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:14:22 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:14:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:14:22 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:15:21 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:15:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:15:22 --> Total execution time: 1.1248
+DEBUG - 2016-12-01 02:15:22 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:15:22 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:15:22 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:15:22 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:15:22 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:15:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:15:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:15:22 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:15:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:15:22 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:15:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:15:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:15:22 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 02:15:22 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 02:15:22 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:15:22 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:15:22 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:15:22 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:15:22 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:15:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:15:22 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:15:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:15:22 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:15:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:15:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:15:22 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:15:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:15:22 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 02:15:22 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 02:15:22 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:15:23 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:15:23 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:15:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:15:23 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:15:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:15:23 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:15:23 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:15:23 --> UTF-8 Support Enabled
+ERROR - 2016-12-01 02:15:23 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:15:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:15:23 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:15:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:15:23 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:15:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:15:23 --> UTF-8 Support Enabled
+ERROR - 2016-12-01 02:15:23 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:15:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:15:23 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:15:23 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:15:23 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:15:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:15:23 --> UTF-8 Support Enabled
+ERROR - 2016-12-01 02:15:23 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:15:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:15:23 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 02:15:23 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:15:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 02:15:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:15:23 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 02:15:23 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:15:23 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:15:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:15:23 --> 404 Page Not Found: Assets/backend
+DEBUG - 2016-12-01 02:30:49 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:30:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:30:49 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:30:49 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:30:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:30:49 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:30:49 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:30:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:30:49 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:30:49 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:30:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:30:49 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:30:49 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:30:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:30:49 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:30:49 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:30:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:30:49 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:30:49 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:30:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:30:49 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:30:52 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:30:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:30:52 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:30:53 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:30:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:30:53 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:30:55 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:30:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:30:55 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:30:55 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:30:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:30:55 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:30:55 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:30:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:30:55 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:30:56 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:30:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:30:56 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:30:56 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:30:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:30:56 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:30:57 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:30:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:30:57 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:30:57 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:30:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:30:57 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:30:57 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:30:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:30:57 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:30:57 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:30:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:30:57 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 02:30:57 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 02:30:58 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 02:30:58 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:15:01 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:15:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:15:03 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:15:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:15:04 --> Total execution time: 1.0882
+DEBUG - 2016-12-01 05:15:09 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:15:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:15:10 --> Query error: Unknown column 'nama' in 'field list' - Invalid query: SELECT id_user,username,nama,status,last_login,id_privillege FROM user WHERE username='aceng' AND password='55753343ee37878365258706bd5b2dea0dc967a1'
+DEBUG - 2016-12-01 05:15:45 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:15:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:15:46 --> Total execution time: 1.0602
+DEBUG - 2016-12-01 05:15:54 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:15:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:15:55 --> Query error: Unknown column 'id_privillege' in 'field list' - Invalid query: SELECT id_user,username,name,status,last_login,id_privillege FROM user WHERE username='aceng' AND password='55753343ee37878365258706bd5b2dea0dc967a1'
+DEBUG - 2016-12-01 05:16:17 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:16:18 --> Total execution time: 1.0492
+DEBUG - 2016-12-01 05:16:20 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:16:21 --> Total execution time: 1.0702
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:16:21 --> UTF-8 Support Enabled
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:16:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 05:16:21 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:16:22 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:16:22 --> 404 Page Not Found: Assets/backend
+DEBUG - 2016-12-01 05:16:28 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:16:29 --> Total execution time: 1.0578
+DEBUG - 2016-12-01 05:16:29 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:16:30 --> 404 Page Not Found: Assets/backend
+DEBUG - 2016-12-01 05:16:32 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:16:32 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:16:32 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:32 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:32 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:32 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:16:32 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:16:32 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 05:16:32 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:16:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:16:32 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:16:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:16:32 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:32 --> UTF-8 Support Enabled
+ERROR - 2016-12-01 05:16:32 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:16:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:16:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:16:32 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 05:16:32 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:16:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:16:32 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:16:32 --> UTF-8 Support Enabled
+ERROR - 2016-12-01 05:16:32 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:16:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:16:32 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:16:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:16:32 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:17:17 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:18 --> Total execution time: 1.0683
+DEBUG - 2016-12-01 05:17:18 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:18 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:17:18 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:18 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:17:19 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:19 --> 404 Page Not Found: Assets/backend
+DEBUG - 2016-12-01 05:17:19 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:35 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:36 --> Total execution time: 1.0708
+DEBUG - 2016-12-01 05:17:36 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:36 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:36 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:36 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:17:36 --> UTF-8 Support Enabled
+ERROR - 2016-12-01 05:17:36 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:17:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:36 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:17:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:36 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:36 --> UTF-8 Support Enabled
+ERROR - 2016-12-01 05:17:36 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:17:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:36 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:17:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:36 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:36 --> UTF-8 Support Enabled
+ERROR - 2016-12-01 05:17:36 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:17:36 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:36 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:36 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 05:17:36 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:17:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:36 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 05:17:36 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:17:36 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:36 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:36 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:36 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:36 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:36 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:36 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:17:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:36 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:17:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:36 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 05:17:36 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:17:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:36 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 05:17:36 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:17:37 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:37 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:37 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:37 --> UTF-8 Support Enabled
+ERROR - 2016-12-01 05:17:37 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 05:17:37 --> 404 Page Not Found: admin/Dist/img
+ERROR - 2016-12-01 05:17:37 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:17:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:37 --> 404 Page Not Found: admin/Dist/img
+DEBUG - 2016-12-01 05:17:37 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:37 --> 404 Page Not Found: Assets/backend
+DEBUG - 2016-12-01 05:17:43 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:44 --> Total execution time: 1.0582
+DEBUG - 2016-12-01 05:17:44 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:44 --> UTF-8 Support Enabled
+ERROR - 2016-12-01 05:17:44 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:17:44 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:44 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:44 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:44 --> 404 Page Not Found: admin/Data_user/dist
+ERROR - 2016-12-01 05:17:44 --> 404 Page Not Found: admin/Data_user/dist
+ERROR - 2016-12-01 05:17:44 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:17:44 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:44 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:44 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:17:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:44 --> 404 Page Not Found: admin/Data_user/dist
+ERROR - 2016-12-01 05:17:44 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:17:44 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:44 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:44 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:44 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:17:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:44 --> 404 Page Not Found: admin/Data_user/dist
+ERROR - 2016-12-01 05:17:44 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:17:45 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:45 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:45 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:45 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:45 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:17:45 --> UTF-8 Support Enabled
+ERROR - 2016-12-01 05:17:45 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:17:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:45 --> UTF-8 Support Enabled
+ERROR - 2016-12-01 05:17:45 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:17:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:45 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:17:45 --> UTF-8 Support Enabled
+ERROR - 2016-12-01 05:17:45 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:17:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:17:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:45 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:17:45 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:45 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:45 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:45 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:17:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:45 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:17:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:45 --> 404 Page Not Found: admin/Data_user/dist
+ERROR - 2016-12-01 05:17:45 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:17:45 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:17:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:17:45 --> 404 Page Not Found: Assets/backend
+DEBUG - 2016-12-01 05:18:08 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:18:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:18:09 --> Total execution time: 1.0714
+DEBUG - 2016-12-01 05:18:09 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:18:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:18:09 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:18:09 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:18:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:18:09 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:18:10 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:18:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:18:10 --> 404 Page Not Found: Assets/backend
+DEBUG - 2016-12-01 05:18:10 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:18:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:27:26 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:27:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:27:27 --> Total execution time: 1.0784
+DEBUG - 2016-12-01 05:27:27 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:27:27 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:27:27 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:27:28 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:27:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:27:28 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:27:28 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:27:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:27:28 --> 404 Page Not Found: Assets/backend
+DEBUG - 2016-12-01 05:27:28 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:27:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:27:30 --> Total execution time: 2.0744
+DEBUG - 2016-12-01 05:28:10 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:28:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:28:11 --> Total execution time: 1.0716
+DEBUG - 2016-12-01 05:28:12 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:28:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:28:12 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:28:12 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:28:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:28:12 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:28:12 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:28:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:28:12 --> 404 Page Not Found: Assets/backend
+DEBUG - 2016-12-01 05:28:12 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:28:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:28:14 --> Total execution time: 2.0924
+DEBUG - 2016-12-01 05:28:16 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:28:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:28:17 --> Total execution time: 1.0783
+DEBUG - 2016-12-01 05:29:47 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:29:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:29:48 --> Total execution time: 1.0631
+DEBUG - 2016-12-01 05:29:48 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:29:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:29:48 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:29:48 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:29:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:29:48 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:29:49 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:29:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:29:49 --> 404 Page Not Found: Assets/backend
+DEBUG - 2016-12-01 05:29:49 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:29:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:29:51 --> Total execution time: 2.0686
+DEBUG - 2016-12-01 05:29:54 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:29:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:29:55 --> Total execution time: 1.0424
+DEBUG - 2016-12-01 05:33:44 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:33:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:33:45 --> Total execution time: 1.0627
+DEBUG - 2016-12-01 05:33:45 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:33:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:33:45 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:33:45 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:33:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:33:45 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:33:45 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:33:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:33:45 --> 404 Page Not Found: Assets/backend
+DEBUG - 2016-12-01 05:33:45 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:33:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:33:48 --> Total execution time: 2.0958
+DEBUG - 2016-12-01 05:37:40 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:37:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:37:41 --> Total execution time: 1.0775
+DEBUG - 2016-12-01 05:37:41 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:37:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:37:41 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:37:41 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:37:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:37:41 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:37:42 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:37:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:37:42 --> 404 Page Not Found: Assets/backend
+DEBUG - 2016-12-01 05:37:42 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:37:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:37:44 --> Total execution time: 2.1038
+DEBUG - 2016-12-01 05:37:45 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:37:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:37:46 --> Total execution time: 1.0549
+DEBUG - 2016-12-01 05:38:01 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:38:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:38:02 --> Total execution time: 1.0736
+DEBUG - 2016-12-01 05:38:03 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:38:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:38:03 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:38:03 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:38:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:38:03 --> 404 Page Not Found: admin/Data_user/dist
+DEBUG - 2016-12-01 05:38:03 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:38:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-12-01 05:38:03 --> 404 Page Not Found: Assets/backend
+DEBUG - 2016-12-01 05:38:04 --> UTF-8 Support Enabled
+DEBUG - 2016-12-01 05:38:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-12-01 05:38:06 --> Total execution time: 2.0804

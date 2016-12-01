@@ -1,5 +1,5 @@
 <?php if (! defined('BASEPATH')) exit('No direct script accses allowed');
-class Admin extends CI_Controller {
+class Index extends CI_Controller {
 	
 	function __construct(){
 		parent::__construct();
@@ -9,7 +9,7 @@ class Admin extends CI_Controller {
 	}
 	public function index(){
 		if(!($this->session->userdata('validated'))){
-			redirect('admin/login');
+			redirect('admin/index/login');
 		}
 		$m['top']	= "top";
 		$m['left']	= "left";
@@ -20,7 +20,7 @@ class Admin extends CI_Controller {
 	}
 	public function login(){
 		if($this->session->userdata('validated')){
-			redirect('admin/index');
+			redirect('admin/index/index');
 		}
 		$m['robots'] = "noindex,nofollow,nosnippet,noarchive,noimageindex";
 		if(isset($_COOKIE["cookielogin"])){
@@ -42,7 +42,7 @@ class Admin extends CI_Controller {
 			$this->load->helper('date');
 			$username = replaceWordChars($this->input->post('username', TRUE));
 			$password = sha1(replaceWordChars($this->input->post('username', TRUE)).replaceWordChars($this->input->post('password', TRUE)));
-			$cek = $this->data_backend->getData("id_user,username,nama,status,last_login,id_privillege","user WHERE username='".$username."' AND password='".$password."'");
+			$cek = $this->data_backend->getData("id_user,username,name,status,last_login,id_privilege","user WHERE username='".$username."' AND password='".$password."'");
 			$remember=$this->input->post('remember');
 	        $j_cek	= $cek->num_rows();
 			$d_cek	= $cek->row();
@@ -64,8 +64,8 @@ class Admin extends CI_Controller {
 	            $data = array(
 	            		'id'   => $d_cek->id_user,
 	                    'user' => $d_cek->username,
-	                    'name' => $d_cek->nama,
-	                    'level' => $d_cek->id_privillege,
+	                    'name' => $d_cek->name,
+	                    'level' => $d_cek->id_privilege,
 	                    'time' => unix_to_human($now, TRUE, 'ind'),
 						'validated' => TRUE
 	                    );
@@ -79,7 +79,7 @@ class Admin extends CI_Controller {
 	}
 	public function myprofile(){
 		if(! $this->session->userdata('validated')){
-			redirect('admin/login');
+			redirect('admin/index/login');
 		}
 		$m['top'] = "top";
 		$m['left_side'] = "left_side";
@@ -95,7 +95,7 @@ $m['data_online_user'] = $this->data_backend->getData('name,foto,status,last_log
 	}
 	public function setting(){
 		if(! $this->session->userdata('validated')){
-			redirect('admin/login');
+			redirect('admin/index/login');
 		}
 		$m['top'] = "top";
 		$m['left_side'] = "left_side";
@@ -113,7 +113,7 @@ $m['data_online_user'] = $this->data_backend->getData('name,foto,status,last_log
 		date_default_timezone_set('Asia/Jakarta');
 		// $update = $this->data_backend->update('admin', array('status' => '0','last_logout'=>date("Y-m-d H:i:s"),'ip_logout'=>ambil_ip()),array('id_admin' => $this->session->userdata('id')));
         	$this->session->sess_destroy();
-        	redirect('admin/login');
+        	redirect('admin/index/login');
     }
 // 		public function c_su(){
 // $getId = $this->data_backend->getMaxId($primary_id,'admin');

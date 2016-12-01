@@ -31,7 +31,8 @@
           <i class="fa fa-dashboard"></i> <span>Dashboard</span>
           </span>
         </a>
-        </li><li class="treeview">
+        </li>
+        <li class="treeview">
         <a href="#">
           <i class="fa fa-laptop"></i> <span>Service Platform</span>
           <span class="pull-right-container">
@@ -83,7 +84,7 @@
                   </span>
                 </a>
                  <ul class="treeview-menu">
-                  <li><a href="<?= base_url('wlog/c_wlog');?>">
+                  <li><a href="<?= base_url('admin/wlog/c_wlog');?>">
                   <i class="fa fa-circle-o"></i> SSR Logs</a></li>
                   <li><a href="#"><i class="fa fa-circle-o"></i> Gen21 Logs</a></li>
                 </ul>
@@ -96,9 +97,9 @@
                   </span>
                 </a>
                 <ul class="treeview-menu">
-                  <li><a href="<?= base_url('sop/c_sop/index1');?>">
+                  <li><a href="<?= base_url('admin/sop/c_sop/index1');?>">
                   <i class="fa fa-circle-o"></i> SSR SOP</a></li>
-                  <li><a href="<?= base_url('sop/c_sop');?>">
+                  <li><a href="<?= base_url('admin/sop/c_sop');?>">
                   <i class="fa fa-circle-o"></i> Gen21 SOP</a></li>
                 </ul>
               </li>
@@ -152,7 +153,7 @@
                 </a>
                 <ul class="treeview-menu">
                   <li>
-                    <a href="<?= base_url('sop/c_sop');?>">
+                    <a href="<?= base_url('admin/sop/c_sop');?>">
                       <i class="fa fa-circle-o"></i> Level Three
                     </a>
                   </li>
@@ -214,6 +215,22 @@
           <i class="fa fa-link"></i>
           <span>Another Link</span>
         </a>
+      </li>
+      <li class="treeview">
+        <a href="#">
+          <i class="fa fa-cog"></i>
+          <span>Setting</span>
+          <span class="pull-right-container">
+            <i class="fa fa-angle-left pull-right"></i>
+          </span>
+        </a>
+        <ul class="treeview-menu">
+           <li>
+            <a href="<?= base_url('admin/data_user');?>">
+              <i class="fa fa-circle-o"></i>Data User
+            </a>
+          </li>
+        </ul>
       </li>
       <li class="treeview">
         <a href="#">
