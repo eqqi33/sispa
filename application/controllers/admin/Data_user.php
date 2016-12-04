@@ -93,6 +93,7 @@ class Data_user extends CI_Controller {
         echo json_encode($data);
     }
     public function ajax_add(){
+        $now=now();
         $primary_id = 'id_user';
         $getId = $this->data_backend->getMaxId($primary_id,'user');
         $id_sop = $getId['no'];
@@ -102,6 +103,7 @@ class Data_user extends CI_Controller {
                 'password' =>  sha1(replaceWordChars($this->input->post('username', TRUE)).replaceWordChars($this->input->post('password', TRUE))),
                 'name' => replaceWordChars($this->input->post('name', TRUE)),
                 'status' => $this->input->post('status', TRUE),
+                'create_on' => $now,
                 'id_privilege' => $this->input->post('id_privilege', TRUE)
             );
         $insert = $this->data_backend->save('user',$data);

@@ -226,7 +226,7 @@
         </a>
         <ul class="treeview-menu">
            <li>
-            <a href="<?= base_url('admin/data_user');?>">
+            <a href="<?= base_url('admin/data_user/index');?>">
               <i class="fa fa-circle-o"></i>Data User
             </a>
           </li>

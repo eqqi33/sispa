@@ -8,7 +8,7 @@
         <small>Data User</small>
       </h1>
       <ol class="breadcrumb">
-        <li><a href="#"><i class="fa ffa-cog"></i> Setting</a></li>
+        <li><a href="#"><i class="fa fa-cog"></i> Setting</a></li>
         <li class="active">Data User</li>
       </ol>
     </section>
@@ -127,6 +127,7 @@
     });   
   });
   function verifyPass(){
+    $('.info-verify').show();
     if($("#password").val() != $("#vpassword").val()){
         $('.info-verify').html('<span style="color: #EF6262;">Password Not Match <i class="fa fa-close"></i></span>');
     }else{
@@ -318,12 +319,12 @@
                     </div>
                     <div class="form-group">
                       <label>Password</label>
-                      <input id="password" type="text" class="form-control" name="password" placeholder="Password">
+                      <input id="password" type="password" class="form-control" name="password" placeholder="Password">
                     </div>
                     <div class="form-group">
                       <label>Verification Password</label>
-                      <input id="vpassword" type="text" class="form-control" name="vpassword" placeholder="Password">
-                      <div class="info-verify" style="color:black;padding:10px 0px 10px 0px !important"></div>
+                      <input id="vpassword" type="password" class="form-control" name="vpassword" placeholder="Password">
+                      <div class="info-verify" style="color:black;padding:10px 0px 10px 0px !important;display: none;"></div>
                     </div>
                     <div class="form-group">
                       <label>Name</label>
@@ -331,7 +332,7 @@
                     </div>
                     <div class="form-group">
                       <label>Account Status</label>
-                      <select name="cat_wlog" class="form-control" required>
+                      <select name="status" class="form-control" required>
                         <option value="">- Select -</option>
                         <option value="0">Not Active</option>
                         <option value="1">Active</option>

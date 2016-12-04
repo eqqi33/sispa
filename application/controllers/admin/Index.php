@@ -42,7 +42,7 @@ class Index extends CI_Controller {
 			$this->load->helper('date');
 			$username = replaceWordChars($this->input->post('username', TRUE));
 			$password = sha1(replaceWordChars($this->input->post('username', TRUE)).replaceWordChars($this->input->post('password', TRUE)));
-			$cek = $this->data_backend->getData("id_user,username,name,status,last_login,id_privilege","user WHERE username='".$username."' AND password='".$password."'");
+			$cek = $this->data_backend->getData("id_user,username,password,name,status,last_login,id_privilege","user WHERE username='".$username."' AND password='".$password."'");
 			$remember=$this->input->post('remember');
 	        $j_cek	= $cek->num_rows();
 			$d_cek	= $cek->row();
@@ -65,6 +65,7 @@ class Index extends CI_Controller {
 	            		'id'   => $d_cek->id_user,
 	                    'user' => $d_cek->username,
 	                    'name' => $d_cek->name,
+	                    'pass' => $d_cek->password,	                    
 	                    'level' => $d_cek->id_privilege,
 	                    'time' => unix_to_human($now, TRUE, 'ind'),
 						'validated' => TRUE
